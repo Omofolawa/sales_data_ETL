@@ -1,0 +1,1001 @@
+SaleID,CustomerID,ProductID,Quantity,Price,TotalAmount,SalesDate,CustomerName,ProductName,Region,SalesRep
+1,4396,410,10,1998.02,19980.2000,2021-04-27,Tiffany Harvey,Laptop,Asia,Lynn Franco
+2,6728,287,4,72.03,288.1200,2020-02-17,Kelly Davis,Mouse,Asia,Martin Thomas
+3,5168,405,2,650.16,1300.3200,2021-11-03,Lori Orr,Keyboard,Asia,Teresa Mosley
+4,1100,59,6,715.66,4293.9600,2023-01-23,Megan Castro,Keyboard,Australia,Amy Gutierrez
+5,1477,427,3,428.33,1284.9900,2023-09-04,Kevin Landry,Tablet,Africa,Nicholas Miller
+6,8849,470,8,1604.65,12837.2000,2022-08-15,Shannon Roberson,Smartphone,South America,Stephen Lee
+7,3545,322,8,1789.51,14316.0800,2022-01-04,Alexis Morris,Tablet,South America,Christina Moreno
+8,7782,476,1,1678.46,1678.4600,2020-09-05,Mason Rodriguez,Keyboard,Africa,Casey Austin
+9,6169,285,9,86.5,778.5000,2022-03-28,Daniel Estrada,Mouse,Asia,Savannah Smith
+10,6793,34,3,596.9,1790.7000,2019-03-05,Grace Campbell,Tablet,South America,Sandra Johnson
+11,9753,432,3,1163.41,3490.2300,2021-03-08,Eugene Montoya,Smartphone,Australia,Jamie Crawford
+12,2914,443,5,1425.27,7126.3500,2020-10-06,Anne Thompson,Mouse,North America,Katherine Wilkinson
+13,5448,212,2,1019.26,2038.5200,2020-05-01,Ashley Hebert,Tablet,South America,Jordan Higgins
+14,5958,111,9,639.52,5755.6800,2019-08-18,Evan Johnson,Tablet,North America,Mary Gomez
+15,4311,468,2,915.36,1830.7200,2019-02-21,Robert Hoffman,Headphones,South America,Joseph Thompson
+16,9192,79,4,713.23,2852.9200,2021-09-17,Joe Little,Mouse,Australia,Andrew Jones
+17,6084,398,6,329.43,1976.5800,2023-11-21,Dr. Herbert Duffy,Laptop,Australia,Joshua Santiago
+18,3174,106,1,945.77,945.7700,2023-01-01,Mary Bowen,Headphones,Australia,Julie Durham
+19,2897,3,5,1868.06,9340.3000,2022-11-08,Craig Valenzuela,Headphones,Australia,Ian Moyer
+20,2426,171,8,1783.91,14271.2800,2019-07-31,Jessica Harris,Keyboard,Africa,Jeremy Williams
+21,6119,12,10,1529.06,15290.6000,2022-08-01,Ronald Campbell,Smartphone,Asia,Gary Mcpherson
+22,4285,99,5,589.47,2947.3500,2020-10-15,Cory Osborne,Headphones,South America,Connor Ray
+23,2927,140,3,357.12,1071.3600,2019-08-23,Maria Scott,Laptop,Australia,Teresa Hale
+24,9422,53,4,1107.93,4431.7200,2022-01-30,Veronica Moody,Tablet,Asia,Allison Hogan
+25,3319,483,5,1169.46,5847.3000,2019-12-17,Courtney Arnold,Laptop,Asia,Travis Reilly
+26,6549,277,8,148.92,1191.3600,2019-03-01,William Nguyen,Monitor,Africa,Traci Murphy
+27,1826,55,7,154.91,1084.3700,2021-05-23,Teresa Armstrong,Monitor,Europe,Lori Nelson
+28,8304,316,6,659.26,3955.5600,2023-08-02,Michelle Mclaughlin,Smartphone,Africa,Steven Hoover
+29,9740,41,8,1157.19,9257.5200,2019-07-10,Kelly Flores,Headphones,Africa,Heather Vargas
+30,8672,50,8,655.26,5242.0800,2022-08-12,Mary Price,Mouse,South America,Cindy Payne
+31,8709,119,4,330.26,1321.0400,2022-06-17,Jonathan Rodgers,Tablet,Asia,Derrick Smith
+32,7423,94,6,1588.12,9528.7200,2023-12-13,Dominique Williams,Tablet,South America,Annette Hill
+33,8987,16,2,976.9,1953.8000,2020-12-20,Miss Shari Sanchez DDS,Monitor,South America,Joshua King
+34,3798,145,6,1228.66,7371.9600,2019-09-18,Sandra Stevens,Keyboard,North America,Brittany Silva
+35,7646,419,2,685.45,1370.9000,2022-08-23,Kimberly Lopez,Laptop,Asia,Nina Hill
+36,9728,237,7,1201.55,8410.8500,2020-05-03,Tonya Spence,Keyboard,Europe,Seth Stokes
+37,9977,82,8,798.44,6387.5200,2020-11-28,Ryan Russell,Smartphone,Africa,Kelly Woods
+38,8063,402,7,1156.06,8092.4200,2020-12-01,Dwayne Brown,Keyboard,Africa,Wendy Tyler
+39,4869,89,2,1491.77,2983.5400,2022-12-28,William Jones,Keyboard,South America,Casey Morgan
+40,2873,304,10,952.67,9526.7000,2022-02-10,David Anderson,Laptop,South America,Beth Campbell
+41,3886,158,7,185.73,1300.1100,2019-08-11,Gabriel Evans,Mouse,Australia,Linda Flores
+42,7208,168,8,1307.73,10461.8400,2019-05-06,Stacey Rivas,Laptop,Europe,Daniel Floyd
+43,3276,455,10,1811.35,18113.5000,2022-07-26,Aaron Smith,Headphones,North America,Andrea Turner
+44,3403,339,3,933.3,2799.9000,2020-08-19,Anthony Reed,Monitor,Australia,Sean Walton
+45,8326,101,4,1378.96,5515.8400,2020-10-10,Jon Gomez,Tablet,Australia,Kylie Cervantes
+46,5989,471,7,1449.69,10147.8300,2020-12-06,Angela Crosby,Laptop,Australia,Cory Davis
+47,1133,314,9,838.18,7543.6200,2019-09-19,Allen Tanner,Headphones,Asia,Douglas Moon
+48,2022,190,9,1937.4,17436.6000,2019-01-02,Jason Sims,Mouse,Australia,Caleb Marshall
+49,6885,57,5,1738.08,8690.4000,2020-04-26,Alfred Sanford,Monitor,Africa,James Richards
+50,7459,321,6,1437.96,8627.7600,2021-04-11,Ryan Fields,Monitor,South America,Jacob Kirby
+51,9931,109,3,976.0,2928.0000,2020-01-21,Peter Garcia,Keyboard,South America,Heather Butler
+52,6902,431,7,350.82,2455.7400,2023-11-23,Julie Arnold,Mouse,Europe,Gregory Brown
+53,3200,6,2,1314.36,2628.7200,2019-10-22,Mark Marshall,Mouse,South America,Jeffery Daniel
+54,8155,500,3,215.09,645.2700,2022-08-08,Brenda Gordon,Headphones,South America,James Smith
+55,8471,458,10,1864.11,18641.1000,2022-06-30,Jamie Bell,Smartphone,South America,Chad Collins
+56,9346,218,9,1649.14,14842.2600,2021-02-26,Ann Howard,Tablet,Europe,April Poole
+57,4044,218,10,64.49,644.9000,2021-10-17,Anthony Black,Headphones,Africa,Victor Anderson
+58,4878,365,9,575.04,5175.3600,2022-01-23,Rodney Burch,Keyboard,Asia,Matthew Scott
+59,1548,20,10,992.37,9923.7000,2021-01-24,Stephanie Miller,Laptop,Australia,Ethan Christian
+60,8889,493,2,327.07,654.1400,2023-02-06,Michael King,Keyboard,Asia,Sandra Lindsey
+61,8617,265,2,1070.55,2141.1000,2022-06-03,Mark Mckenzie MD,Laptop,Europe,Jamie Campbell
+62,8740,323,2,1383.94,2767.8800,2022-01-09,Kevin Walker,Headphones,Australia,Christina Lewis
+63,6119,314,1,1811.99,1811.9900,2021-12-31,Gary Fischer,Headphones,North America,Lee Oneill
+64,8681,233,9,1816.81,16351.2900,2022-03-21,Pamela Montes,Mouse,Asia,Wesley Rowe
+65,7897,181,5,613.96,3069.8000,2019-03-14,Amy Hill,Mouse,Australia,Nathan Snyder
+66,5981,373,10,557.86,5578.6000,2022-07-12,Tyler Ellis,Monitor,Australia,Heather Olson
+67,3770,294,1,1329.82,1329.8200,2020-08-20,Danielle Sullivan,Headphones,Africa,Andre Brown
+68,1447,147,8,210.89,1687.1200,2021-11-01,James Moore,Laptop,Asia,Heidi Phillips
+69,5129,68,10,597.9,5979.0000,2023-10-23,Allison Lawson,Tablet,North America,Yolanda Garrett
+70,2827,310,3,1824.76,5474.2800,2023-02-22,James Schneider,Smartphone,Africa,Kimberly Lindsey
+71,8317,190,3,559.44,1678.3200,2022-12-06,Gary Andrade,Smartphone,South America,Vanessa Rodriguez
+72,3962,410,9,1730.93,15578.3700,2020-12-03,Deanna Mcdonald,Laptop,Europe,Laura Bowen
+73,3525,429,8,1517.88,12143.0400,2021-04-25,Jill Owen,Headphones,South America,Bonnie Young
+74,4898,339,8,1465.7,11725.6000,2019-12-09,Bradley Cabrera,Smartphone,Australia,Mr. Nicholas Stewart
+75,6653,28,5,1523.19,7615.9500,2019-08-26,Adam Brown,Laptop,Europe,Kelly Blackwell
+76,8602,205,8,637.67,5101.3600,2023-03-09,Melinda Mclaughlin,Headphones,Australia,Victoria Patterson
+77,4828,195,7,975.45,6828.1500,2019-10-25,Stephanie Rodriguez,Keyboard,South America,Michelle Livingston
+78,1194,148,8,794.91,6359.2800,2020-10-08,Richard Everett,Keyboard,Africa,Teresa Gay
+79,1672,50,9,1292.98,11636.8200,2023-09-26,Ricky Romero,Monitor,Australia,John Johnston
+80,5466,172,5,570.82,2854.1000,2019-07-21,Brandon Garcia,Tablet,Africa,Courtney Butler
+81,7408,237,4,1481.91,5927.6400,2022-04-20,Anthony Kennedy,Headphones,Europe,Justin Gonzalez
+82,9518,173,3,660.88,1982.6400,2019-01-22,Nicole Adams,Mouse,North America,Ashley Barron
+83,2113,7,7,240.51,1683.5700,2019-08-01,Jessica Blanchard,Mouse,South America,Julie Manning
+84,6759,113,5,541.2,2706.0000,2019-03-11,Kayla Caldwell,Laptop,Australia,Kevin Bullock
+85,2506,30,10,1330.38,13303.8000,2023-09-08,Reginald Delgado,Smartphone,Australia,Richard Schmitt
+86,2995,363,2,218.45,436.9000,2022-05-23,Ashley Cooper,Smartphone,South America,Seth West
+87,4027,459,2,1406.52,2813.0400,2020-06-02,Mark Evans,Tablet,South America,Michael Phillips
+88,2240,328,8,1849.26,14794.0800,2020-07-20,Brian Craig,Headphones,South America,Richard Donaldson
+89,6298,132,3,1572.43,4717.2900,2020-07-21,Edward Schultz,Headphones,North America,Robert Fitzpatrick
+90,7271,199,6,1992.12,11952.7200,2020-06-12,Joseph Clark,Headphones,Asia,Christopher Flores
+91,3915,226,2,1008.86,2017.7200,2020-02-15,Megan Wilson,Keyboard,South America,Danielle Smith
+92,3923,331,8,261.44,2091.5200,2022-01-12,Margaret Tucker,Headphones,South America,Alicia Colon
+93,4578,315,2,1829.59,3659.1800,2023-01-05,Angela Hancock,Tablet,North America,Ashley Mooney
+94,1571,38,2,1164.12,2328.2400,2020-05-28,David Roberts,Headphones,South America,Helen Smith
+95,1307,460,8,340.27,2722.1600,2022-08-04,Connie Spence,Laptop,North America,Catherine Smith
+96,7397,137,3,1415.11,4245.3300,2021-03-12,Marcus Blanchard,Keyboard,North America,Joshua Brown
+97,9444,363,8,982.37,7858.9600,2021-04-07,David Perez,Headphones,Africa,Benjamin Wallace
+98,2148,277,4,56.45,225.8000,2022-11-12,Elijah Klein,Headphones,South America,John Wright
+99,2985,291,9,1873.33,16859.9700,2021-01-05,Susan Rodriguez,Tablet,Africa,Judith Shaw
+100,5961,206,1,1282.93,1282.9300,2022-08-18,Kristi Moreno,Laptop,Asia,Kayla Boone
+101,9759,437,6,206.89,1241.3400,2021-07-30,Henry Martin,Headphones,Asia,Brenda Padilla
+102,4327,91,9,126.7,1140.3000,2021-02-25,Rose Willis,Mouse,Europe,John Davis
+103,5896,357,7,1798.1,12586.7000,2022-07-15,Ruben Daugherty,Mouse,Asia,Kurt Church
+104,8970,44,8,1483.88,11871.0400,2019-10-14,Jill Mack,Laptop,Europe,Edward Lawson
+105,1415,369,10,515.05,5150.5000,2021-03-07,Andrew Calderon,Laptop,Australia,Gabriel Cook
+106,6041,256,9,1931.66,17384.9400,2023-07-21,Lindsey Beasley,Monitor,North America,Jonathan Myers
+107,1606,174,1,708.55,708.5500,2023-01-16,Brandon Garza,Laptop,South America,Kimberly Daniel
+108,2936,109,9,943.82,8494.3800,2022-10-20,Andrea Hines,Headphones,Australia,Patrick Kaiser
+109,3440,380,10,504.32,5043.2000,2019-05-28,Mary Mcpherson,Laptop,Africa,Michael Horton
+110,3319,251,1,968.88,968.8800,2022-06-20,Debbie Castro,Laptop,Europe,Curtis Sanchez
+111,3138,8,3,1283.69,3851.0700,2020-09-21,Jeffery Simpson,Headphones,North America,Christopher Gomez
+112,8474,313,3,1678.94,5036.8200,2019-05-11,Michael Mcdonald,Headphones,North America,Eric Romero
+113,2870,255,10,1608.39,16083.9000,2020-03-27,Carol Hooper,Laptop,Europe,Dean Valentine
+114,7983,173,7,682.26,4775.8200,2022-11-02,Rachel Reed,Keyboard,Australia,Lisa Smith
+115,3250,165,4,1540.24,6160.9600,2022-04-29,Virginia Wiley,Smartphone,Asia,Kristen Ramirez PhD
+116,2035,62,5,325.41,1627.0500,2021-04-30,Jennifer Hall,Smartphone,Africa,Adrian Lindsey
+117,7060,284,3,905.39,2716.1700,2022-04-06,Phyllis Freeman,Laptop,Europe,Julia Taylor
+118,2637,406,10,783.46,7834.6000,2019-11-20,Nathan Chase,Laptop,South America,Kelly Ross
+119,2322,4,1,399.86,399.8600,2019-07-02,Rachel Pierce,Mouse,Africa,Tiffany Hernandez
+120,5648,214,8,1400.1,11200.8000,2020-02-27,Madeline Smith,Smartphone,Africa,Katherine Harris
+121,5439,268,8,853.46,6827.6800,2019-12-24,Robert Young,Keyboard,Africa,Heather Torres
+122,1616,306,3,1448.54,4345.6200,2022-06-07,Kenneth Hernandez,Laptop,Africa,Nicholas Pierce
+123,5934,179,7,58.91,412.3700,2020-04-27,Michael Wolfe,Smartphone,North America,Jessica Torres
+124,9686,49,10,755.71,7557.1000,2023-04-08,Lisa Green,Keyboard,Australia,Steve Williams
+125,4592,238,4,589.03,2356.1200,2020-02-01,Eric Nichols,Laptop,Europe,Calvin Robles
+126,8772,255,3,361.53,1084.5900,2019-03-30,Jermaine Simmons,Laptop,Africa,Sheila Forbes
+127,6966,146,4,897.61,3590.4400,2020-11-15,Theresa Henson,Keyboard,South America,Brooke Contreras
+128,1709,54,1,1853.48,1853.4800,2019-12-27,Brandon Cooley,Smartphone,North America,Mark Brewer
+129,8947,264,2,188.18,376.3600,2020-04-26,Kristen Moore,Mouse,South America,Lori Ferguson
+130,6340,215,4,1506.82,6027.2800,2020-10-29,Tyler Thompson,Smartphone,North America,Jennifer Montgomery
+131,6343,117,2,512.38,1024.7600,2021-04-24,Bryan Andrews,Headphones,Europe,Desiree Reeves
+132,7152,457,4,193.38,773.5200,2022-04-13,Misty Dennis,Monitor,North America,Sarah Winters
+133,8141,75,4,1859.38,7437.5200,2021-07-20,Preston Glenn,Smartphone,South America,Sonya Johnson
+134,7119,70,8,1453.65,11629.2000,2022-07-18,Tracey Fuller,Tablet,Asia,Allison Hurst
+135,4313,172,3,112.58,337.7400,2022-03-10,Marie Smith,Laptop,Asia,Tammie Watkins
+136,3236,57,8,944.23,7553.8400,2019-12-17,Felicia Ryan,Headphones,Asia,Isaac Wood
+137,4602,454,5,1227.09,6135.4500,2023-06-05,Sean Potter,Headphones,Africa,Felicia Collins
+138,3784,296,9,1717.26,15455.3400,2019-06-27,Todd Martin,Monitor,Australia,Andrea Young
+139,9015,442,4,1203.58,4814.3200,2023-09-11,Justin Snyder,Monitor,Asia,Stacy Bailey
+140,1237,374,7,1485.55,10398.8500,2020-05-20,Kelly Cox,Smartphone,Asia,Edward Hansen
+141,8114,297,4,1789.05,7156.2000,2022-04-26,Michael Sanchez,Smartphone,Australia,Chloe Patel
+142,1083,214,1,128.11,128.1100,2021-08-21,Daniel Barnes,Mouse,Australia,Kevin Pierce
+143,1550,218,9,818.92,7370.2800,2023-07-17,Catherine Hall MD,Headphones,Africa,Luis Parks
+144,2605,232,8,519.0,4152.0000,2022-02-17,Allison Leon,Headphones,North America,Sharon Bell
+145,7662,487,4,308.79,1235.1600,2020-08-28,Lee Davies,Smartphone,Africa,Brittany Shaw
+146,2486,9,8,1354.62,10836.9600,2019-11-28,Margaret Cox,Mouse,South America,Catherine Rivera
+147,1399,500,8,954.33,7634.6400,2019-10-11,Ivan Tran,Headphones,Africa,Ryan Howard
+148,7641,95,6,1272.28,7633.6800,2022-12-12,Jeffrey Bird,Mouse,North America,Janet Lee
+149,2158,198,6,1085.29,6511.7400,2020-08-30,Linda Richards,Monitor,Asia,Erik Hull
+150,9887,295,4,1586.0,6344.0000,2019-06-15,Jacob Case,Keyboard,Asia,Charles Martinez
+151,1898,264,6,1781.56,10689.3600,2019-08-16,Rodney Lopez,Monitor,Asia,Gregory Sanders
+152,8624,317,1,762.86,762.8600,2019-12-25,Isaiah Wallace,Mouse,Australia,Sarah Espinoza
+153,2097,288,4,319.89,1279.5600,2020-11-16,Dr. Dwayne Thomas,Smartphone,Australia,Elizabeth Mcdonald
+154,2860,333,8,1487.89,11903.1200,2023-03-21,Kyle Smith,Keyboard,Africa,Shannon Miller
+155,4437,386,4,674.9,2699.6000,2020-07-01,Julie Morgan,Keyboard,Africa,Jessica Jones
+156,7929,142,1,173.57,173.5700,2020-12-08,Carla Mullins,Monitor,South America,Kristin Kelly
+157,9215,270,2,966.82,1933.6400,2021-12-25,Greg Miller,Mouse,Australia,Christopher Taylor
+158,5788,232,10,767.88,7678.8000,2022-10-10,Michelle Cox,Mouse,North America,Sarah Williams
+159,4085,457,8,220.25,1762.0000,2021-03-11,Cassandra Lee,Smartphone,Asia,Alexander Duncan
+160,2260,56,3,588.09,1764.2700,2022-11-28,Billy Ferguson,Smartphone,South America,Timothy Kline
+161,3465,448,4,1065.34,4261.3600,2022-07-08,Shelley Sanchez,Laptop,Asia,Jose Thomas
+162,7824,497,9,1866.86,16801.7400,2021-08-28,Shannon Roach,Tablet,South America,Carrie Ward
+163,8272,378,1,618.46,618.4600,2019-05-09,William Anderson,Laptop,Europe,Lindsey Cole
+164,9513,331,6,852.8,5116.8000,2020-12-03,David Cooper MD,Mouse,Africa,Sydney Chavez
+165,6346,249,10,1348.42,13484.2000,2021-12-21,Michelle Moore MD,Headphones,Australia,Willie Armstrong PhD
+166,8295,235,5,1156.14,5780.7000,2023-06-05,Rita Chavez,Tablet,Europe,Lisa Burns
+167,5259,117,8,775.21,6201.6800,2020-08-13,Donna Johnston,Headphones,North America,Sandra Gomez
+168,3430,181,5,939.06,4695.3000,2019-12-07,Hannah Stevens,Keyboard,Europe,Breanna Peterson
+169,9770,147,3,1947.75,5843.2500,2023-09-15,Crystal Santos,Mouse,Africa,Wendy King
+170,3514,83,4,277.99,1111.9600,2020-10-10,John Stout,Keyboard,Europe,Edward Leblanc
+171,8223,134,6,409.77,2458.6200,2022-02-25,Julia Jimenez,Mouse,North America,Brittany Torres
+172,6192,177,3,777.18,2331.5400,2022-01-10,Casey Rogers,Smartphone,Australia,Ryan Phillips
+173,5940,63,1,838.9,838.9000,2021-10-19,Kimberly Kemp,Headphones,Europe,Kyle Moody
+174,8504,476,6,354.3,2125.8000,2023-02-21,Jennifer Miller,Keyboard,Australia,Mark Sanchez
+175,6427,332,5,974.13,4870.6500,2020-08-16,David Hahn,Headphones,Australia,Linda Cabrera
+176,3409,410,10,1470.66,14706.6000,2021-06-24,Eric Anderson,Tablet,Africa,Christopher Williams
+177,2840,375,8,1805.34,14442.7200,2019-10-13,Brian Snyder,Mouse,Australia,Lynn Cole
+178,2914,158,1,833.18,833.1800,2023-09-19,Vincent Reynolds,Smartphone,South America,Connie Powell
+179,6855,48,6,157.32,943.9200,2022-08-06,Joshua Reyes,Smartphone,Australia,Justin Floyd
+180,9625,114,5,431.65,2158.2500,2019-06-21,Jenna Torres,Keyboard,South America,Mason Lynch
+181,2431,500,9,819.13,7372.1700,2021-10-01,David Lopez,Tablet,Australia,Christopher Reyes
+182,9381,484,1,1821.47,1821.4700,2021-01-09,Carol Cherry,Monitor,Europe,Paula Kelly DDS
+183,8006,190,7,777.02,5439.1400,2020-08-05,Samuel Hughes,Tablet,Asia,Kelly Jones
+184,6047,229,9,220.82,1987.3800,2023-01-30,Kyle Shea,Monitor,Africa,Connie Dennis
+185,7809,412,8,612.84,4902.7200,2023-07-09,Ashley Wood,Mouse,South America,Rachel Martinez
+186,7786,72,10,1215.97,12159.7000,2019-10-22,Travis Carpenter,Smartphone,Asia,David Arias
+187,8776,445,9,1973.94,17765.4600,2019-05-16,Francis Pope,Keyboard,South America,John Powell
+188,2449,4,7,1295.67,9069.6900,2020-07-13,Mary Anderson,Monitor,Europe,Todd Noble
+189,8571,364,10,1522.73,15227.3000,2019-10-08,Jason Rodriguez,Smartphone,Europe,Jennifer Sutton
+190,7254,149,9,1006.64,9059.7600,2023-08-13,Gary Mora,Headphones,Asia,Kiara Ramirez
+191,5979,253,9,1492.72,13434.4800,2020-04-04,James Gonzalez,Laptop,North America,Amber Hill
+192,3523,135,5,1914.25,9571.2500,2023-09-05,Adam White,Mouse,South America,Destiny Baxter
+193,3034,335,5,863.46,4317.3000,2021-10-04,Franklin Rodriguez,Mouse,Africa,John Anderson
+194,5009,15,2,1541.2,3082.4000,2021-10-06,Jeffrey Bryan,Laptop,Australia,Robert Jimenez
+195,6927,298,8,1152.87,9222.9600,2023-11-14,Danielle Smith,Tablet,Africa,Steven Tucker
+196,8799,499,2,777.74,1555.4800,2023-02-10,Shannon Wilson,Keyboard,North America,Ms. Christie Delgado
+197,5252,84,10,164.1,1641.0000,2020-10-16,Aimee Ward,Monitor,Africa,Kristina Warren
+198,3219,183,3,153.13,459.3900,2021-01-09,Jacob Reilly,Monitor,Africa,Sarah Cooke
+199,6832,25,5,618.74,3093.7000,2022-08-01,John White,Laptop,Australia,Kevin Dennis
+200,4175,393,3,1541.14,4623.4200,2022-05-11,Stephen Jackson,Headphones,Europe,William Garcia
+201,9908,166,6,1662.3,9973.8000,2022-11-03,Timothy Thompson,Headphones,Asia,Brittany Andrews
+202,5447,351,6,236.88,1421.2800,2022-04-02,Todd Ware,Tablet,Europe,Dr. Kelly Humphrey
+203,1211,71,9,598.76,5388.8400,2023-05-14,Christopher Petersen,Monitor,South America,Michael Herrera
+204,6575,472,3,249.71,749.1300,2019-11-13,Amber Sellers,Keyboard,Europe,Taylor Garcia
+205,4087,408,9,1246.19,11215.7100,2023-08-30,Michelle Fowler,Keyboard,Australia,Benjamin Mora
+206,2867,214,8,1836.26,14690.0800,2019-08-27,Roberto Davis,Headphones,Europe,Jeffrey Rodriguez
+207,1284,246,6,657.57,3945.4200,2021-01-12,Julie Holmes,Smartphone,South America,Dr. Catherine Howell
+208,9570,391,6,385.8,2314.8000,2020-09-15,Thomas Hopkins,Laptop,Africa,Victoria Garza
+209,2943,114,3,1720.79,5162.3700,2019-10-19,Anthony Dixon,Mouse,Europe,Anthony Fisher
+210,6036,65,4,303.93,1215.7200,2019-06-10,Keith Dalton,Monitor,Africa,Scott Mitchell
+211,2830,40,1,1560.65,1560.6500,2023-04-01,Joseph Johnson,Monitor,North America,April Odonnell
+212,4217,56,1,1596.46,1596.4600,2021-11-17,Timothy Walker,Keyboard,North America,Lisa Vaughan
+213,8685,61,5,134.4,672.0000,2020-09-09,Darrell Jones,Mouse,North America,Roberta Kramer
+214,2581,401,2,1844.19,3688.3800,2020-02-25,Brooke Anderson,Keyboard,Europe,Daniel Wright
+215,4027,344,6,107.06,642.3600,2019-10-26,James Chavez,Headphones,Africa,Patrick Edwards
+216,5544,486,10,728.28,7282.8000,2019-11-25,Kathy Holmes,Headphones,Australia,Eric Harvey
+217,4962,259,10,183.26,1832.6000,2023-08-06,Sonya Blair,Keyboard,North America,Karen Martinez
+218,9664,112,4,1930.31,7721.2400,2019-12-18,Sean Freeman,Headphones,Australia,Amy Clark
+219,1070,499,2,1852.25,3704.5000,2021-10-29,Alexandra Todd,Headphones,Africa,Martin West
+220,8777,188,10,411.0,4110.0000,2022-10-11,Eric Morales,Laptop,Europe,Ruben Wilson
+221,6813,195,7,467.83,3274.8100,2020-04-11,Michael Jones II,Monitor,North America,Nathan Brewer
+222,6149,64,8,265.12,2120.9600,2019-10-06,Hannah Fitzgerald,Monitor,Asia,Debra Williams
+223,5723,286,1,210.38,210.3800,2021-10-08,Deborah Garcia,Laptop,South America,Cheryl Bell
+224,5646,234,10,1485.54,14855.4000,2022-11-08,Tyler Christensen,Headphones,South America,Ms. Alexandra Jones
+225,4700,284,7,616.65,4316.5500,2023-10-18,Nicholas Swanson,Monitor,Europe,Mrs. Melissa Robinson
+226,2140,459,8,1881.21,15049.6800,2021-01-22,Barry Ferguson,Smartphone,North America,Matthew Ferguson
+227,9055,345,2,822.92,1645.8400,2021-12-06,Ethan Hoffman,Mouse,Africa,Donald Maldonado
+228,2392,62,3,819.88,2459.6400,2022-11-24,Steven Newman,Keyboard,North America,Gerald Reynolds
+229,3764,34,6,1951.65,11709.9000,2020-11-24,Sarah Rice,Smartphone,Australia,Travis Collins
+230,7623,63,4,1684.31,6737.2400,2023-01-25,Dr. Jennifer Nelson,Monitor,Asia,Amanda Gibbs
+231,5472,388,7,744.39,5210.7300,2022-09-27,Ross Reynolds,Keyboard,South America,Samantha Jackson
+232,8938,262,5,337.38,1686.9000,2021-07-20,Tina Pollard,Laptop,North America,Marissa King
+233,5107,251,8,500.1,4000.8000,2019-10-03,Cathy Jordan,Laptop,North America,Eric Peterson
+234,1865,426,2,1021.36,2042.7200,2019-02-24,Taylor Marshall,Smartphone,South America,Joseph Gonzales
+235,6356,79,5,1262.84,6314.2000,2019-07-17,Mr. Todd Burns,Headphones,North America,Haley Brown
+236,9518,393,8,1595.83,12766.6400,2020-02-18,Stephen Wheeler,Tablet,Africa,John Ware
+237,9157,252,9,560.25,5042.2500,2020-12-04,Kara Ortega,Headphones,Australia,James Johnson
+238,9955,10,1,1981.89,1981.8900,2023-12-08,Tina Kelley,Laptop,South America,Selena Gray
+239,8374,162,7,912.98,6390.8600,2019-03-15,Wanda Sanders,Laptop,Europe,Michael Peters
+240,5965,453,3,1008.39,3025.1700,2019-10-03,Matthew Kirby,Tablet,Africa,Jonathan Brown
+241,7374,250,2,1159.27,2318.5400,2021-10-01,Jose West,Mouse,Australia,Sean Garcia
+242,9837,293,8,978.03,7824.2400,2023-10-16,Brad Brown,Smartphone,Australia,Ryan Cox
+243,1913,201,5,1014.65,5073.2500,2021-02-12,Anthony Adkins,Keyboard,Africa,Brittney Daniel
+244,6779,393,5,674.94,3374.7000,2019-02-27,Jose Reyes,Keyboard,North America,Shannon Ray
+245,3100,429,6,730.31,4381.8600,2023-02-28,John Hoffman,Keyboard,North America,Martin Valencia
+246,6591,195,2,884.89,1769.7800,2021-01-01,Jimmy Reese,Monitor,Asia,Nicole Beard
+247,1924,339,4,532.85,2131.4000,2022-08-20,April Martinez,Tablet,Australia,Jeffrey Rodriguez
+248,2391,467,2,1744.43,3488.8600,2019-08-23,Joseph Love,Tablet,Europe,Chelsea Anderson
+249,1322,276,6,122.89,737.3400,2022-09-09,Dorothy Lee,Headphones,South America,Mr. Christopher Christensen
+250,9433,462,7,569.91,3989.3700,2022-11-26,George Carson,Monitor,Australia,Jennifer Clark
+251,1364,163,7,1162.19,8135.3300,2020-10-22,Brian Phillips,Keyboard,North America,Matthew Maxwell
+252,9001,52,4,705.14,2820.5600,2021-10-26,Michael Marshall,Headphones,Africa,Robert Allen
+253,6563,86,10,634.07,6340.7000,2021-06-11,Angela Robinson,Smartphone,South America,Jeremy Richmond
+254,2234,431,9,467.46,4207.1400,2020-06-27,Dana Hammond,Laptop,Asia,Kimberly Knapp
+255,7586,412,4,1267.92,5071.6800,2019-07-08,Kristina Thornton,Mouse,Australia,Denise Gardner
+256,2552,304,6,583.06,3498.3600,2022-03-06,Mary Kelley,Headphones,Australia,Jeremiah Sanchez
+257,8786,219,4,727.27,2909.0800,2019-06-07,Dawn Rodriguez,Mouse,Asia,Laurie Yoder
+258,9268,412,5,894.18,4470.9000,2022-01-10,Randy Nichols,Tablet,Europe,Andrew Garcia
+259,7788,206,5,1268.68,6343.4000,2021-07-17,Roger Jacobs,Mouse,Australia,Michael West
+260,3958,452,1,1274.3,1274.3000,2021-11-23,Marc Richardson,Headphones,Europe,Brandon Juarez
+261,9178,110,8,572.48,4579.8400,2022-07-30,Katie Beasley,Keyboard,Australia,Melody Ball
+262,8106,479,10,1466.9,14669.0000,2019-05-03,Donna Miller,Keyboard,Europe,Angela Wood
+263,6968,237,3,518.73,1556.1900,2023-03-09,James Brown,Mouse,Asia,Alison Thompson
+264,8133,211,6,1727.36,10364.1600,2019-05-12,Amanda Rubio,Mouse,Europe,Zachary Brady
+265,7757,137,5,1309.78,6548.9000,2020-06-09,Matthew Wiley,Mouse,Australia,Robert Wright
+266,4868,208,4,271.44,1085.7600,2020-01-29,Holly Gordon,Laptop,Europe,Melissa Chandler
+267,6087,238,8,1141.66,9133.2800,2021-06-12,William Carter,Monitor,Africa,Christopher Bradley
+268,1606,104,3,581.79,1745.3700,2019-03-01,Keith Ward,Tablet,Asia,Chelsea Alvarado
+269,3883,330,1,1929.38,1929.3800,2021-09-22,David Cole,Headphones,North America,Roberto Newman
+270,1906,441,2,662.11,1324.2200,2020-09-02,Christian Schwartz,Headphones,North America,Sarah Crawford
+271,7668,460,6,1359.76,8158.5600,2023-12-19,Stephanie Andersen,Laptop,South America,Joe Johnson
+272,3302,121,2,1163.4,2326.8000,2021-10-21,Eileen Parker,Laptop,Australia,Dylan Deleon
+273,9605,129,8,1774.9,14199.2000,2020-05-02,Trevor Johnson,Keyboard,North America,Donna Edwards
+274,6134,169,10,1487.61,14876.1000,2023-07-09,Ryan Stephens,Mouse,Africa,John Davis
+275,4865,479,7,475.12,3325.8400,2019-08-07,Rebecca Ferguson,Smartphone,Europe,Christopher Jackson
+276,5498,226,7,545.9,3821.3000,2022-04-22,Jennifer Romero,Laptop,South America,Patricia Faulkner
+277,9740,192,2,667.16,1334.3200,2021-05-17,Susan Larsen,Monitor,Africa,Grace Hubbard
+278,5036,494,5,1764.9,8824.5000,2019-10-24,Lauren Boone DVM,Tablet,South America,Suzanne Johnson
+279,7025,421,5,91.09,455.4500,2022-05-25,Sarah Shea,Laptop,Africa,Charles Klein
+280,1895,354,4,543.32,2173.2800,2021-02-26,Lawrence Lopez,Tablet,Africa,Monica Davis
+281,6945,463,2,1093.08,2186.1600,2020-04-29,Kathleen Burnett,Headphones,South America,Mark Arnold
+282,7364,5,7,1858.64,13010.4800,2020-06-07,Shawn Brandt,Tablet,North America,Caroline Crawford
+283,4857,153,4,1725.86,6903.4400,2019-11-25,Christopher Watson,Monitor,Africa,Megan Farmer
+284,6196,451,7,1589.17,11124.1900,2020-07-15,Linda Williams,Headphones,North America,Christopher Santiago
+285,9055,242,7,1856.67,12996.6900,2020-11-12,Catherine Anderson,Mouse,South America,Douglas Cruz
+286,2644,423,3,1412.04,4236.1200,2021-11-02,Daniel Smith,Laptop,Asia,Tammy Johnson
+287,7895,309,9,1488.68,13398.1200,2021-07-17,Renee Ramirez,Mouse,North America,Jennifer Williams
+288,1853,329,3,1278.8,3836.4000,2023-06-09,Jennifer Gilbert,Mouse,Europe,Mr. Jeffery Lynn
+289,1050,206,4,1275.18,5100.7200,2020-10-04,Holly Miller,Keyboard,North America,Lindsay Harmon
+290,2815,81,4,1056.91,4227.6400,2023-04-22,Sandra Good,Headphones,Africa,Allison Lee
+291,3131,434,10,1387.22,13872.2000,2023-06-12,Melanie Adams,Tablet,South America,David Brown
+292,8837,448,3,558.33,1674.9900,2022-11-08,Richard Baldwin,Keyboard,Asia,Sarah Rush
+293,5616,102,2,858.27,1716.5400,2020-01-08,Olivia Peterson,Monitor,South America,Pedro Grimes
+294,4677,11,1,1850.07,1850.0700,2022-08-18,Alice Rogers,Keyboard,Africa,Michael Fuller
+295,4747,465,2,1949.55,3899.1000,2020-02-11,Alec Pham,Tablet,Africa,Eric Caldwell
+296,3764,26,7,1255.11,8785.7700,2022-05-14,Alicia Ross,Tablet,Europe,Michael Martin
+297,2459,491,6,381.74,2290.4400,2022-03-07,William Martinez,Laptop,North America,John Moore
+298,9615,223,8,1663.15,13305.2000,2021-10-09,Samantha Le,Laptop,Europe,Joshua Cohen
+299,4328,98,5,611.53,3057.6500,2021-10-09,John Young,Monitor,Europe,Kelly Sherman
+300,8066,439,4,1220.16,4880.6400,2023-08-15,Heather Norman,Tablet,Africa,Frank Moore
+301,4102,215,3,846.62,2539.8600,2019-10-26,Jenny Freeman,Laptop,Asia,Corey Andrews
+302,5289,121,10,929.4,9294.0000,2020-05-23,Jeremy Salas,Tablet,Australia,Jared Tyler
+303,8506,44,1,964.32,964.3200,2023-11-20,Jacqueline Mejia,Tablet,Africa,Brent Berger
+304,7513,352,4,1441.01,5764.0400,2022-12-21,Stephen Taylor,Monitor,Africa,Kathryn Watson
+305,5198,38,2,1136.15,2272.3000,2019-04-17,Cheyenne Hull,Tablet,Europe,Eric Grant
+306,8715,466,6,1993.64,11961.8400,2022-10-05,Gregory Clark,Headphones,Australia,Timothy Russell
+307,1745,3,5,1033.86,5169.3000,2021-02-19,Julie Johnson MD,Tablet,South America,Christine Wells
+308,7076,68,9,130.19,1171.7100,2020-01-03,Stephanie Marsh,Tablet,Europe,Tamara Shea
+309,9253,253,6,1761.9,10571.4000,2019-09-28,Brian Meyers,Laptop,Asia,Sharon Warren
+310,9690,222,3,557.79,1673.3700,2020-10-03,Sandra Mcknight,Laptop,Europe,Keith Williams
+311,9179,447,5,1508.26,7541.3000,2021-05-30,Brad Norris PhD,Tablet,Asia,Timothy Solis
+312,5321,265,6,899.76,5398.5600,2019-12-04,Patricia Gonzalez,Tablet,Africa,Michael Stevens
+313,9049,392,3,1133.57,3400.7100,2022-09-08,Jonathan Kennedy,Mouse,South America,Traci Mccullough
+314,1871,97,3,156.41,469.2300,2020-01-11,Katherine Gibson,Laptop,South America,Michael Solis
+315,5263,84,8,901.04,7208.3200,2021-10-10,Charles Ward,Laptop,South America,Megan Olson
+316,6841,364,9,996.14,8965.2600,2021-10-06,Dawn Nelson,Laptop,Africa,Maria White
+317,3425,64,6,232.48,1394.8800,2023-11-14,Jason Sanders,Tablet,Europe,Adrian Smith
+318,3757,384,9,1654.01,14886.0900,2022-02-27,Veronica Marshall,Mouse,Australia,Jason Jordan
+319,4479,299,1,1075.73,1075.7300,2022-03-14,Helen Johnson,Smartphone,South America,Matthew Saunders
+320,2258,127,8,1369.97,10959.7600,2023-12-23,Angel Mendez,Tablet,North America,John Fields
+321,5657,349,2,818.63,1637.2600,2022-04-24,Mary French,Laptop,Asia,Mark Archer
+322,3519,15,2,947.45,1894.9000,2022-12-20,Brittany Cruz,Mouse,South America,Thomas Gonzales
+323,8439,322,5,1208.7,6043.5000,2019-01-12,Sheila Torres,Tablet,North America,Beth Meyer
+324,8423,167,10,302.17,3021.7000,2023-11-03,Jason Lee,Laptop,Africa,Nicholas Campbell
+325,5635,166,1,1500.41,1500.4100,2022-01-25,Emily Scott,Keyboard,South America,Marvin Perry
+326,2516,205,5,397.12,1985.6000,2023-04-28,Tonya Mercado,Headphones,South America,Courtney Phillips
+327,2461,11,4,367.73,1470.9200,2023-05-16,Dustin Duran,Monitor,Asia,Kara Taylor
+328,3525,62,5,1007.15,5035.7500,2021-06-04,Jeffrey Todd,Mouse,Asia,Tamara Paul
+329,3151,184,2,1672.5,3345.0000,2021-11-15,Jamie Morgan,Smartphone,South America,Drew Patton
+330,8298,454,7,979.06,6853.4200,2022-02-27,Jennifer Brown,Keyboard,South America,Renee Shepherd
+331,2478,388,7,1631.44,11420.0800,2022-06-11,Christopher Boyle,Smartphone,South America,Ellen Campbell
+332,7979,48,1,1051.02,1051.0200,2021-08-07,Travis Young,Mouse,Europe,Laura Wilson
+333,3540,477,8,1078.19,8625.5200,2022-08-18,Jill Miranda,Keyboard,North America,Shane Miller
+334,5762,240,7,204.41,1430.8700,2023-06-30,Angel Wilson,Monitor,Asia,Kelsey Chen
+335,3434,66,5,1691.0,8455.0000,2021-12-07,Donna Lawrence,Monitor,Asia,James Gutierrez
+336,1781,283,2,1838.74,3677.4800,2021-11-17,Sydney Dougherty,Laptop,Australia,David Bates
+337,7961,212,2,956.08,1912.1600,2023-01-15,Erin Weaver,Keyboard,Asia,Michael Porter
+338,6823,131,10,209.45,2094.5000,2021-10-28,Jose Kaiser,Laptop,North America,Brian Cox
+339,8583,92,3,1693.67,5081.0100,2019-04-03,Jessica Fernandez,Laptop,South America,Holly Mora
+340,5876,161,10,1461.98,14619.8000,2023-04-01,Justin King,Mouse,South America,Kimberly Henderson
+341,5342,175,3,461.58,1384.7400,2019-06-10,Stephen Wagner,Mouse,Australia,Robert Goodwin
+342,5248,447,2,895.91,1791.8200,2019-02-06,Debra Barton,Laptop,South America,Lisa Evans
+343,2911,7,3,1328.81,3986.4300,2021-07-31,Alexis Allen,Mouse,South America,John Lucas
+344,8974,156,10,1635.61,16356.1000,2022-06-17,Erin Morton,Tablet,Africa,Anthony Dougherty
+345,7471,412,5,220.89,1104.4500,2019-10-04,Angelica Johnson,Laptop,Europe,Billy Allison
+346,2833,418,1,1407.26,1407.2600,2020-01-21,Rachel Pena,Headphones,North America,Deanna Lane
+347,4428,247,3,1316.99,3950.9700,2021-06-11,Courtney Young,Headphones,Africa,Gloria Webb
+348,9824,98,2,636.79,1273.5800,2021-08-07,Bradley Clark,Smartphone,South America,Jennifer Moran
+349,7912,12,2,373.91,747.8200,2019-11-09,Peter White,Mouse,Africa,Mark Arnold
+350,8295,494,8,969.4,7755.2000,2023-10-27,Yolanda Lynn,Monitor,Australia,Mary Adams
+351,4975,104,5,1160.39,5801.9500,2023-09-04,Judy Castillo,Monitor,North America,Barbara Palmer
+352,6469,5,2,1279.3,2558.6000,2022-12-31,Paul Washington,Monitor,South America,Christian Lopez
+353,9121,378,10,1211.89,12118.9000,2022-02-09,Kyle Taylor,Tablet,North America,Alan Green
+354,8987,205,8,1051.04,8408.3200,2023-01-24,Leslie Collins,Keyboard,Africa,Jennifer Rivera
+355,8993,119,1,1080.2,1080.2000,2021-05-14,Diana Harris,Keyboard,Asia,Nicholas Acevedo
+356,2040,138,7,1783.82,12486.7400,2019-08-28,Robert Hines,Monitor,Australia,Emily Norris
+357,6681,230,7,90.57,633.9900,2020-08-12,Michael White,Mouse,Europe,Lori Taylor
+358,8688,177,8,502.6,4020.8000,2020-03-25,Miss Chelsea Hale,Keyboard,Africa,Susan Cain
+359,6556,472,10,1714.23,17142.3000,2023-01-04,Lisa Johnson,Mouse,South America,Shane Walker
+360,3148,453,5,1459.84,7299.2000,2021-03-10,Jennifer Bentley,Monitor,Africa,Erin Dixon
+361,6902,408,8,1609.52,12876.1600,2023-09-26,Alexandra Barajas,Smartphone,Australia,Ms. Jennifer Reynolds
+362,4394,145,2,1350.76,2701.5200,2019-09-22,Michael Stevenson,Smartphone,Europe,Bradley Thomas
+363,3561,311,8,246.76,1974.0800,2021-05-01,Zachary Horton,Monitor,Asia,Michael Schmidt
+364,4845,108,9,141.75,1275.7500,2019-02-07,Jeffrey Wood,Tablet,Asia,Alexa Harper
+365,6849,347,3,390.69,1172.0700,2023-10-27,Kaitlyn Salazar,Keyboard,North America,Nicole Cox
+366,2043,173,7,272.24,1905.6800,2020-04-09,Brittany Davies,Laptop,Australia,John Guerrero
+367,4671,250,5,1987.64,9938.2000,2023-05-27,Stephen Lee,Tablet,North America,Janice Taylor
+368,5382,459,3,1714.15,5142.4500,2023-11-25,Eric Tapia,Keyboard,Australia,Mary Gonzalez
+369,2706,362,1,1856.93,1856.9300,2021-06-15,Kimberly Snyder,Headphones,South America,Allison Roberts
+370,2817,500,2,1574.22,3148.4400,2022-06-02,Michelle Jones,Headphones,North America,Lisa Foster
+371,1687,260,2,375.74,751.4800,2019-08-30,Katherine Jordan,Headphones,Europe,Jacqueline Terrell
+372,6925,81,5,1430.92,7154.6000,2023-04-10,Amanda Brown,Keyboard,South America,Michael Gates
+373,2626,79,6,702.48,4214.8800,2019-10-10,Sean Hurst,Laptop,Europe,Jessica Smith
+374,8194,497,7,1549.98,10849.8600,2019-01-14,Carly Jackson,Smartphone,South America,Kelly Jackson
+375,6592,147,9,383.96,3455.6400,2020-06-28,Andrea Jackson,Tablet,Africa,Joan Weiss
+376,7799,185,4,345.64,1382.5600,2023-03-24,Kevin Morales,Keyboard,South America,Rebecca Johnston
+377,4738,71,7,856.15,5993.0500,2021-04-18,Tonya Sanchez,Monitor,Australia,Meghan Harmon
+378,6927,484,1,913.03,913.0300,2023-04-27,Michael Woods,Laptop,Africa,David Hammond
+379,9476,484,2,215.32,430.6400,2020-10-06,Christopher Church,Monitor,Europe,Christine Walker
+380,8111,32,7,1530.43,10713.0100,2022-09-14,Heather Conrad,Mouse,Europe,John Callahan
+381,1947,324,9,1946.69,17520.2100,2021-05-08,Kevin Freeman,Monitor,Africa,Claudia Lane
+382,5986,370,6,1823.0,10938.0000,2019-01-17,Jerry Ramirez,Headphones,Asia,Taylor Shaffer
+383,9647,313,3,1415.58,4246.7400,2021-07-02,Richard Ward,Mouse,Europe,Kimberly Alexander
+384,9919,320,10,1321.47,13214.7000,2022-11-29,Gary Morris,Tablet,Africa,Michael Mcfarland
+385,7627,398,4,1767.9,7071.6000,2019-06-22,Michele Torres,Laptop,Australia,Michael Woodard
+386,6480,200,3,1064.92,3194.7600,2022-01-12,Janice Diaz,Tablet,Europe,David Lopez
+387,2520,262,9,658.89,5930.0100,2020-11-28,Victoria Gibson,Headphones,Africa,Kelsey Moore
+388,3621,12,1,1786.12,1786.1200,2022-01-10,Heather Miller,Keyboard,Asia,Cassandra Cox
+389,4954,427,5,1466.69,7333.4500,2021-10-31,Raymond Hodges,Laptop,Africa,Robert Fox
+390,1982,431,6,556.53,3339.1800,2021-11-05,Mary Wilcox,Tablet,North America,Angela Lewis
+391,1782,388,2,925.04,1850.0800,2022-03-18,Beth Howard,Mouse,North America,Lisa Brooks DDS
+392,8424,174,4,1620.51,6482.0400,2022-04-06,Amy Clark,Keyboard,Africa,Scott Garrett
+393,9737,433,10,505.98,5059.8000,2020-09-04,Doris Stewart,Tablet,Africa,Rachael Mcclain
+394,3293,366,7,1063.35,7443.4500,2020-05-22,Steve Ferguson,Laptop,Asia,Thomas Wood
+395,9461,299,4,1654.54,6618.1600,2021-01-09,Roy Barnes,Monitor,North America,Kent Huff
+396,3401,365,7,1665.45,11658.1500,2019-06-17,Julie Mendez,Laptop,North America,Kerry Bentley
+397,7961,455,3,978.69,2936.0700,2021-07-02,Christina Kline,Laptop,Asia,Megan Hall
+398,9622,207,10,1139.99,11399.9000,2023-05-15,Renee Webster,Monitor,Asia,Patricia Diaz
+399,9172,326,7,1993.2,13952.4000,2022-11-12,Katherine Hubbard,Monitor,Africa,Kenneth Parker
+400,7830,422,3,331.48,994.4400,2019-09-18,Beverly Bryant,Monitor,Africa,James Wood
+401,8499,67,9,1733.38,15600.4200,2019-08-30,Benjamin Montoya,Mouse,Europe,Brittany Wilkerson
+402,8461,243,1,1505.67,1505.6700,2022-02-18,Laura Ball,Tablet,North America,Jennifer Mckee
+403,7694,57,2,770.69,1541.3800,2020-08-16,Jason Walker,Laptop,Australia,Nicholas Stuart
+404,3511,61,6,644.6,3867.6000,2021-02-05,Christopher Tucker,Tablet,Asia,Russell Henderson
+405,8961,15,3,327.17,981.5100,2022-04-22,Eileen Munoz,Monitor,North America,Kimberly Kirk
+406,5999,456,5,470.38,2351.9000,2023-08-05,Kevin Morrison,Mouse,South America,Luke Benjamin
+407,1034,63,9,729.87,6568.8300,2023-11-18,Amy Hicks,Laptop,South America,Matthew Ramirez
+408,8883,294,5,1153.24,5766.2000,2020-11-22,Stacy Thompson,Headphones,South America,Megan Mendez
+409,8786,428,10,308.98,3089.8000,2019-10-11,Lisa Turner,Keyboard,Africa,Arthur Nichols
+410,8551,390,8,1351.08,10808.6400,2019-11-02,Cameron Porter,Headphones,Africa,Elizabeth Cox
+411,6328,46,10,1345.78,13457.8000,2021-04-18,Sarah Leonard,Monitor,Europe,Monica Walker
+412,7478,174,9,139.35,1254.1500,2022-10-05,Morgan Johnson,Monitor,Africa,Lisa Diaz
+413,5544,331,2,1738.61,3477.2200,2022-12-19,Bridget Ford,Laptop,Australia,Alexis Carlson
+414,6060,288,2,1305.63,2611.2600,2019-06-24,Peter Brown,Smartphone,Australia,Chad Obrien
+415,9877,296,1,1916.72,1916.7200,2021-12-04,Tanya Johnson,Smartphone,South America,Shelby Austin
+416,9235,460,1,284.55,284.5500,2021-12-25,Luis Ford,Smartphone,North America,Colleen Woods
+417,5504,403,4,528.31,2113.2400,2022-12-16,Allison Stokes,Headphones,Australia,Whitney Ford
+418,8278,44,9,1233.37,11100.3300,2021-04-02,Carl Vasquez,Keyboard,North America,Carmen Hill
+419,9052,442,1,712.92,712.9200,2020-01-05,Anthony Robles,Monitor,North America,Matthew Phillips
+420,9649,163,7,551.5,3860.5000,2019-08-23,Madison Garcia,Laptop,Australia,Aaron Beck
+421,3755,147,3,406.2,1218.6000,2023-04-23,Edward Sandoval,Laptop,Europe,Jillian Williams
+422,6026,488,7,1373.29,9613.0300,2019-05-01,Kevin Reynolds,Keyboard,Asia,Colin Perkins
+423,3973,14,1,631.15,631.1500,2019-07-22,Jamie Berry,Tablet,Europe,Nathan Thompson
+424,7763,458,6,552.97,3317.8200,2023-08-23,Ryan Holmes,Laptop,North America,Susan Cochran
+425,4318,123,10,1192.76,11927.6000,2021-10-06,Kent Solomon,Keyboard,Australia,Carrie Jones
+426,7308,487,2,575.11,1150.2200,2020-10-13,Mary Walker,Monitor,Australia,James Herring
+427,7669,34,8,106.37,850.9600,2022-07-21,Kenneth King,Smartphone,North America,Eric Garcia
+428,5409,284,10,1366.44,13664.4000,2020-05-19,James Montoya,Headphones,Australia,Karen Warren
+429,3057,156,10,843.15,8431.5000,2019-06-21,Meredith Gray,Headphones,Africa,Paul Lambert
+430,9199,105,3,777.95,2333.8500,2019-12-11,Christine Thompson,Headphones,Europe,Robert Cruz
+431,9806,488,7,1924.64,13472.4800,2022-02-10,Laura Clark,Monitor,North America,Robert Martin
+432,1016,417,8,1924.17,15393.3600,2022-06-25,Anthony Olson,Tablet,Africa,William Tran
+433,3742,1,1,1870.34,1870.3400,2021-09-14,Joanne Schultz,Tablet,Australia,Tara Vega
+434,5110,430,7,1998.52,13989.6400,2023-09-22,Shelly Hoffman,Mouse,Europe,Donald Palmer
+435,9361,145,1,364.76,364.7600,2021-12-29,Renee Blankenship,Keyboard,North America,Kyle Richard
+436,5925,46,7,1411.94,9883.5800,2023-08-28,Jamie Stuart,Smartphone,Africa,Kimberly Bailey
+437,5578,450,7,461.16,3228.1200,2021-10-30,Erin Green,Headphones,Asia,Brian Morales DDS
+438,6613,326,5,1960.3,9801.5000,2022-12-20,Raymond Neal,Monitor,Asia,Edward Pearson
+439,5029,340,6,716.18,4297.0800,2021-07-30,Stephanie Khan,Keyboard,Asia,Jon Fields
+440,1260,468,3,1310.56,3931.6800,2019-01-05,Elizabeth Peterson,Keyboard,South America,John Whitehead
+441,1070,462,1,1361.78,1361.7800,2021-04-26,Jordan Thomas,Keyboard,Africa,Laura Perez
+442,9011,391,7,1099.36,7695.5200,2023-06-01,Justin Weber,Mouse,Africa,Jasmine Thomas
+443,2270,276,1,1790.52,1790.5200,2023-07-30,Lisa Rowe,Mouse,South America,Samuel Newman
+444,3022,181,7,1663.56,11644.9200,2021-01-03,Alejandra Thompson,Monitor,Europe,Brian Howard
+445,1138,64,8,772.44,6179.5200,2020-01-31,Robin Baker,Monitor,North America,Marie Guzman
+446,4629,381,1,1528.92,1528.9200,2022-10-25,Amy Knight,Mouse,Asia,Patricia Navarro
+447,4137,47,10,1269.21,12692.1000,2023-07-14,Martin Hurley,Mouse,Europe,Richard Wilson
+448,4838,253,6,121.75,730.5000,2021-10-06,Tracy Hill DDS,Mouse,Africa,Madison Holden
+449,4425,4,4,1969.31,7877.2400,2022-07-31,Lindsay Harris,Monitor,North America,Rachel Salazar
+450,5544,292,9,1013.32,9119.8800,2022-02-04,Robert Walker,Smartphone,Africa,Bradley Rodriguez
+451,3875,34,10,300.08,3000.8000,2019-05-14,Diana Peters,Smartphone,Asia,Dalton Ellison
+452,4734,452,9,1471.35,13242.1500,2020-07-15,Mike Park,Smartphone,Africa,Loretta Gilmore
+453,1378,497,9,1248.19,11233.7100,2022-10-26,Herbert Webster,Keyboard,South America,Erik Wolf
+454,1032,481,7,1299.88,9099.1600,2022-08-24,Shawn Walsh,Laptop,Asia,Patrick Davis
+455,8086,433,7,584.37,4090.5900,2022-10-24,Leah Lawson,Keyboard,South America,Cindy Perez
+456,9119,186,9,1530.09,13770.8100,2023-12-16,Nicole Mack,Mouse,Europe,Jill Hansen
+457,1769,143,7,1088.2,7617.4000,2020-10-09,Andrew Williams,Laptop,South America,Dwayne Pierce
+458,4188,172,2,1766.19,3532.3800,2023-07-13,Andrew Nelson,Laptop,Africa,Douglas Cooley
+459,4696,354,7,1917.66,13423.6200,2020-05-26,Cassandra Moody,Smartphone,Europe,Jacqueline Holmes
+460,6394,160,2,1270.69,2541.3800,2019-07-18,Jeremy Brown,Laptop,South America,Timothy Mack
+461,8077,414,1,1205.44,1205.4400,2022-07-06,Lisa Waller,Tablet,Asia,Juan Freeman
+462,5049,56,8,514.8,4118.4000,2020-11-28,Steven Davis,Headphones,North America,Nancy Cox
+463,6465,267,4,1889.92,7559.6800,2023-05-08,Haley Watkins,Keyboard,Australia,Nicole Rogers
+464,8184,392,2,1269.43,2538.8600,2022-03-31,Emily Bolton,Laptop,North America,Kevin Wallace
+465,1994,470,1,785.92,785.9200,2023-12-28,Molly Welch,Headphones,Africa,Edward Lopez DVM
+466,2065,401,3,170.9,512.7000,2023-07-02,Philip Blake,Monitor,North America,Gina White
+467,5939,313,7,178.29,1248.0300,2022-10-19,Jennifer Cole,Laptop,Australia,Michael Fritz
+468,1855,151,7,833.28,5832.9600,2022-06-18,Cindy Baker,Headphones,South America,Rhonda Gilbert
+469,4819,443,10,1585.58,15855.8000,2022-07-01,Kelly Burke,Laptop,South America,Sarah Odom
+470,7290,238,7,1765.88,12361.1600,2022-06-22,Ronald Thornton,Laptop,Asia,Angela Ashley
+471,1425,233,9,689.98,6209.8200,2020-01-30,Brandon Nichols,Laptop,North America,Cindy Nichols
+472,1201,305,2,1206.13,2412.2600,2023-09-18,Amanda Thomas,Smartphone,Australia,Gregory Phelps
+473,3064,327,9,549.76,4947.8400,2021-05-12,Annette Roach,Monitor,Africa,Margaret Mason
+474,8284,96,4,318.46,1273.8400,2019-04-01,Stephanie Ewing,Laptop,Europe,Gregory Smith
+475,6106,300,7,1050.6,7354.2000,2022-08-27,Karen Gutierrez,Headphones,Asia,Michael Jackson
+476,6098,299,9,1562.22,14059.9800,2019-10-29,James Guzman,Monitor,Asia,Jill Smith
+477,6618,150,6,1942.03,11652.1800,2021-11-26,Molly Martinez,Keyboard,Africa,Jasmine Johnson
+478,3369,30,4,1038.86,4155.4400,2023-09-07,Alexandra Murphy,Keyboard,North America,Christopher Ellis
+479,7915,177,4,1954.2,7816.8000,2022-08-04,Amanda Smith,Smartphone,North America,Sarah Bryant
+480,6595,97,8,1404.82,11238.5600,2021-08-15,Scott Blankenship,Keyboard,Africa,Jesse Padilla
+481,6425,437,10,1153.89,11538.9000,2020-11-18,Cynthia Reyes,Keyboard,Asia,Kyle Reed
+482,7859,169,3,254.45,763.3500,2023-11-30,Joshua Ballard,Headphones,North America,Tara Graves
+483,9125,113,1,1295.6,1295.6000,2022-11-20,Gabriella Mooney,Smartphone,South America,Amanda Webb
+484,4492,123,8,1482.44,11859.5200,2023-07-27,Derek Mcdowell,Tablet,Africa,Jonathan Hernandez
+485,7158,106,7,409.28,2864.9600,2019-01-14,Anita Pugh,Tablet,North America,Adrian Poole
+486,2208,184,1,1131.65,1131.6500,2019-10-19,Daniel Rodriguez,Tablet,South America,Dennis Boyle
+487,4185,324,10,1829.78,18297.8000,2021-01-07,Jimmy Brewer,Laptop,North America,Thomas Greene DVM
+488,4262,102,5,389.59,1947.9500,2023-12-19,Randall Patterson,Tablet,Africa,Dorothy Gonzales
+489,3855,174,9,529.63,4766.6700,2020-02-06,Johnathan Horne,Laptop,Europe,Gene Howard
+490,5289,467,2,90.94,181.8800,2022-10-19,Rachel Wiggins,Smartphone,South America,Mrs. Amber Morris
+491,2818,174,4,644.89,2579.5600,2020-05-06,Betty Mckinney,Tablet,Asia,Tracy Best
+492,3807,482,9,1955.35,17598.1500,2022-06-30,Samantha Johnson DDS,Monitor,Africa,Jared Ortiz
+493,2071,61,3,1771.31,5313.9300,2019-09-25,Diana Davis,Headphones,Europe,Deanna Powell
+494,4140,273,7,1403.99,9827.9300,2020-10-13,Melissa Miller,Keyboard,South America,Destiny House
+495,5006,472,1,1538.01,1538.0100,2022-04-17,David Hubbard,Smartphone,Australia,Matthew Phillips
+496,5819,405,3,688.98,2066.9400,2019-04-20,Benjamin Garcia,Mouse,Asia,Jennifer Larsen
+497,3071,436,9,1938.35,17445.1500,2023-12-20,Michael Little,Monitor,Europe,Bradley Andrade PhD
+498,2333,402,8,1592.44,12739.5200,2022-06-13,Jaime Berry,Laptop,Europe,Gregory Savage
+499,9333,199,9,779.82,7018.3800,2021-11-28,Heather Dunlap,Monitor,Europe,Jack Smith
+500,6272,365,6,1074.68,6448.0800,2021-09-16,Megan Maynard,Mouse,South America,Derek Silva
+501,8762,138,10,831.84,8318.4000,2023-06-08,Robert Neal DDS,Keyboard,Africa,Christina Stark
+502,1599,107,4,1795.03,7180.1200,2021-07-14,James Stone,Headphones,Europe,Elizabeth Jones
+503,7486,112,5,878.79,4393.9500,2021-02-11,Katherine Sanchez,Keyboard,Europe,Paul Arnold
+504,7129,131,9,215.28,1937.5200,2023-03-20,Amy Williams,Laptop,Asia,Sherry Smith
+505,8282,266,6,498.85,2993.1000,2019-03-26,Patricia Johnson,Monitor,Australia,Heather Davis
+506,6511,219,8,961.72,7693.7600,2021-04-17,Nathan Wallace,Tablet,South America,Kelly Cook
+507,6194,140,7,98.2,687.4000,2021-06-23,Jordan Knight,Smartphone,Asia,Cameron Henson
+508,2243,184,2,624.31,1248.6200,2021-10-24,Patricia James,Keyboard,Australia,Kristie Byrd
+509,2280,403,5,1856.88,9284.4000,2019-07-21,Matthew Short,Laptop,North America,Edwin Shelton
+510,6902,20,9,440.6,3965.4000,2020-02-07,Caitlyn Hernandez,Mouse,Asia,Katrina Stuart
+511,5096,155,5,421.75,2108.7500,2022-05-22,Brian Johnson,Smartphone,Africa,Tyler Black
+512,9898,468,5,66.64,333.2000,2020-09-05,Lawrence Moore,Tablet,Asia,Jennifer Edwards
+513,7616,485,7,1652.63,11568.4100,2023-04-01,Julie Watkins,Mouse,North America,Michael Johnson
+514,8733,335,9,1979.09,17811.8100,2019-11-02,Virginia Shepherd,Headphones,South America,Antonio Wise
+515,4728,117,4,975.15,3900.6000,2021-11-22,Jennifer Bell,Keyboard,Australia,Danielle Williams
+516,8679,370,8,714.29,5714.3200,2019-06-25,Heidi Williams,Tablet,Europe,Mr. Eric Harris
+517,8025,395,7,458.69,3210.8300,2021-07-10,Elizabeth Love,Headphones,Australia,Gary Olson
+518,1493,192,3,1176.14,3528.4200,2019-09-20,Matthew Duncan,Tablet,Africa,Melissa Knight
+519,1158,256,6,712.65,4275.9000,2021-05-08,Sally Simon DVM,Monitor,Africa,Catherine Morrow
+520,7608,391,9,634.29,5708.6100,2022-04-17,Greg Bond Jr.,Laptop,Australia,Karen Washington
+521,1527,473,3,349.7,1049.1000,2020-11-07,Michael Smith,Keyboard,Africa,Brian Day PhD
+522,7404,196,4,1899.95,7599.8000,2019-05-11,Tom Henderson,Keyboard,South America,Bradley Odonnell
+523,4085,244,2,691.24,1382.4800,2021-07-13,Suzanne Cherry,Mouse,Asia,Brooke Bryant
+524,2527,88,2,1366.03,2732.0600,2019-12-30,Mary Newman,Laptop,Africa,Yvonne Short
+525,9005,14,3,438.05,1314.1500,2021-03-01,David Hardin,Tablet,Europe,Michelle Pace
+526,4818,150,9,186.46,1678.1400,2019-04-28,Richard Kramer,Tablet,Australia,Karen Banks
+527,1180,88,6,1726.43,10358.5800,2021-04-21,Debbie Montgomery,Monitor,Europe,Cindy Adams
+528,2814,67,9,865.91,7793.1900,2023-03-02,Edward Duarte,Laptop,South America,Geoffrey Castro
+529,4382,67,4,654.03,2616.1200,2023-08-03,Bailey Romero,Mouse,Africa,Laura Hall
+530,8778,82,10,1171.43,11714.3000,2020-09-27,Donald Webster,Keyboard,Europe,Crystal Sanchez
+531,9232,367,8,587.11,4696.8800,2019-01-16,Alan Parker,Smartphone,South America,John Joseph
+532,2048,423,7,1229.45,8606.1500,2020-05-20,Victor Bradford,Keyboard,Asia,Ronnie James
+533,9043,236,8,1173.46,9387.6800,2023-02-18,Alexandra Baker,Laptop,Asia,Cynthia Johnson
+534,8476,178,5,812.63,4063.1500,2023-08-14,Christian Kennedy,Headphones,Europe,Wanda Rodriguez
+535,7800,128,3,1804.93,5414.7900,2023-02-10,Craig Dalton,Monitor,South America,Matthew Sims
+536,7302,467,3,1412.12,4236.3600,2019-07-15,Erin Smith,Monitor,Africa,Karen Campbell
+537,1715,123,3,583.86,1751.5800,2022-07-10,Kathy Russell,Keyboard,Asia,Kara Valencia
+538,2093,358,4,1822.04,7288.1600,2021-04-22,Timothy Vargas,Headphones,Australia,Beth Hernandez
+539,2986,189,2,1523.02,3046.0400,2021-10-30,Sheila Sherman,Headphones,Asia,Christina Contreras
+540,7719,231,3,542.89,1628.6700,2021-11-02,Andrew Green,Laptop,South America,Tyler Young PhD
+541,1437,38,8,793.25,6346.0000,2023-03-08,Sarah Williams,Monitor,Europe,Edward Chambers
+542,7499,20,1,538.68,538.6800,2022-12-23,Michaela Holmes,Smartphone,Asia,Angela Hull MD
+543,8606,249,8,183.06,1464.4800,2022-01-28,Nathan Martin,Mouse,Europe,Don Mack
+544,8171,72,8,1649.83,13198.6400,2023-09-20,Meghan Kidd,Smartphone,Europe,Stephen Frost
+545,1295,311,2,395.61,791.2200,2019-09-12,Cory Holland,Keyboard,Africa,Kristen Zuniga
+546,7403,87,2,1359.21,2718.4200,2019-01-23,Vanessa Lee,Mouse,Asia,Ms. Kelly Hester
+547,3514,226,6,396.98,2381.8800,2023-01-03,Chad Fritz,Laptop,Africa,Brandon Walls
+548,9721,111,8,1408.65,11269.2000,2023-09-10,Phillip Johnson,Mouse,Australia,Aaron Santos
+549,2684,200,5,915.77,4578.8500,2022-05-10,Lisa Hernandez,Laptop,North America,Christopher Warren
+550,7183,393,4,1861.2,7444.8000,2021-02-06,Matthew Johnson,Smartphone,Europe,Robert Moran
+551,2497,9,7,104.49,731.4300,2019-01-30,Stephanie Scott,Tablet,Europe,Steven Fry MD
+552,2035,113,2,1604.0,3208.0000,2023-08-28,Natasha Robbins,Mouse,Europe,Kimberly Walker
+553,3736,23,7,1049.38,7345.6600,2023-07-29,Ryan Carrillo,Tablet,Asia,Lisa Miller
+554,4105,320,4,1871.94,7487.7600,2021-03-20,Joseph Smith,Monitor,North America,Tonya Mays
+555,4807,110,2,745.32,1490.6400,2019-12-22,Sarah Marquez,Laptop,South America,Kelly Luna
+556,6181,7,7,464.9,3254.3000,2020-03-26,Jean Haley,Laptop,Africa,Kimberly Bell
+557,5562,333,10,769.51,7695.1000,2019-05-18,Cody Greene,Smartphone,South America,Dustin Choi
+558,5940,393,10,1024.17,10241.7000,2019-07-28,Annette Gutierrez,Mouse,Australia,Tamara Kline
+559,3809,129,2,1219.74,2439.4800,2022-07-16,Catherine Elliott,Mouse,South America,Claudia Walter
+560,3177,171,3,1288.94,3866.8200,2023-12-16,Mark Wallace,Mouse,Asia,Kenneth Castro
+561,8899,35,6,84.42,506.5200,2022-04-13,Lauren Mann,Monitor,South America,Lisa Thomas
+562,9372,328,4,1031.67,4126.6800,2022-12-14,Frank Hernandez,Laptop,Europe,George Schultz
+563,1347,316,2,652.25,1304.5000,2023-02-20,Charles House,Monitor,Europe,Lauren Adams
+564,2300,31,3,780.32,2340.9600,2020-08-30,Harry Holmes,Smartphone,Europe,Denise Osborne
+565,7156,105,1,514.22,514.2200,2023-01-25,Jerry Howard,Keyboard,South America,Elizabeth Powell
+566,6385,69,5,669.2,3346.0000,2023-05-31,Michael Wagner,Headphones,North America,Stephanie Butler
+567,9533,406,7,1313.69,9195.8300,2020-08-13,Barbara Cook,Headphones,North America,Olivia Bridges
+568,4752,434,6,718.32,4309.9200,2020-02-26,Sara Davis,Keyboard,North America,Wanda Krueger
+569,5068,411,4,1235.72,4942.8800,2021-02-20,Morgan Daniels,Keyboard,Asia,Thomas Carr
+570,4007,227,1,176.0,176.0000,2021-10-03,Lisa Mccarthy,Laptop,Europe,Sheila Rogers
+571,1853,325,3,1879.64,5638.9200,2019-09-15,Dylan Mullins,Laptop,Europe,John Nash
+572,9992,426,4,510.8,2043.2000,2019-06-10,Paula Parker,Monitor,Africa,Collin Hale
+573,8652,160,3,1457.26,4371.7800,2020-05-16,Nicole Garcia,Monitor,Europe,Heather Jones
+574,5079,156,5,1174.02,5870.1000,2022-07-25,Mike Morgan,Smartphone,Asia,Andrew Moran
+575,8883,41,6,826.58,4959.4800,2019-12-10,Anthony Salazar,Monitor,South America,Ann King
+576,7925,259,10,1483.11,14831.1000,2023-04-07,Devin Lewis,Smartphone,South America,Laura Taylor
+577,1324,391,7,883.42,6183.9400,2019-06-20,Christopher Clark,Headphones,Asia,Kara Rodriguez
+578,9801,79,9,1466.96,13202.6400,2020-06-10,David Diaz,Monitor,South America,David Romero
+579,6011,233,5,781.54,3907.7000,2022-05-26,Holly Hall,Monitor,North America,Paula Robertson
+580,6459,70,8,431.65,3453.2000,2020-01-24,Melissa Hartman,Laptop,North America,Andre Burton
+581,9203,374,6,1008.33,6049.9800,2021-05-01,Zachary Jones,Monitor,Africa,Brittany Conley
+582,7113,197,8,650.23,5201.8400,2022-04-19,Casey Howard Jr.,Laptop,South America,Michelle Collier
+583,1636,472,2,800.41,1600.8200,2022-03-04,Jared Holmes,Smartphone,Europe,Justin Henson
+584,8148,491,5,1553.98,7769.9000,2023-03-20,Zachary Jones,Mouse,Asia,Julia Hunter
+585,9349,364,8,1288.21,10305.6800,2021-01-24,Cody Fernandez,Mouse,North America,Corey Hill
+586,7313,475,7,1484.55,10391.8500,2020-05-11,Emily Donovan,Monitor,North America,Haley Nelson
+587,6921,324,1,1410.07,1410.0700,2022-08-14,Katherine Mitchell,Smartphone,Asia,Ralph Hernandez
+588,8462,484,3,545.86,1637.5800,2022-05-18,Elizabeth Smith,Keyboard,Africa,April Delgado
+589,3644,7,2,1553.4,3106.8000,2022-08-12,Ann Thomas,Mouse,South America,Michael Turner
+590,7515,362,10,1949.58,19495.8000,2019-06-14,Albert Steele,Keyboard,Europe,Veronica Blankenship
+591,7929,85,7,543.1,3801.7000,2020-09-10,Frank Santana,Keyboard,Australia,Kathy Jones
+592,7271,301,5,1481.17,7405.8500,2023-03-22,Emma Lee,Mouse,North America,Gina Ramirez MD
+593,2790,326,10,1564.55,15645.5000,2020-12-06,Howard Webster,Headphones,Europe,Andrew Lowery
+594,5407,384,4,1863.53,7454.1200,2021-03-26,Scott Lee,Mouse,Asia,Lisa Collier
+595,1105,87,8,53.08,424.6400,2019-05-24,Michael White,Headphones,Africa,Joseph Dunn
+596,7845,269,7,1326.32,9284.2400,2023-02-10,Connie Briggs,Monitor,Europe,Kelly Schmidt
+597,3890,192,3,1422.89,4268.6700,2020-02-10,Joel Ward,Monitor,Europe,Teresa Perez
+598,9234,486,2,928.79,1857.5800,2023-07-26,Elizabeth Douglas,Smartphone,Europe,David Hill
+599,4292,31,3,1627.9,4883.7000,2020-01-28,Caleb Ellis,Tablet,South America,James Gentry
+600,8220,321,10,262.93,2629.3000,2022-07-27,James Graham,Smartphone,North America,Jo Christensen
+601,5802,44,7,293.13,2051.9100,2019-05-12,Jennifer Hudson,Tablet,North America,Andrew Carpenter Jr.
+602,4846,245,8,1361.97,10895.7600,2019-07-26,Melanie Mcdonald,Laptop,North America,Shelly Jones
+603,5359,385,1,1347.38,1347.3800,2023-06-05,Angela Lee,Laptop,North America,Elizabeth Galloway DDS
+604,4458,268,1,782.55,782.5500,2021-12-01,Joseph Becker,Headphones,Asia,Linda Pugh
+605,8961,243,6,1228.52,7371.1200,2020-11-20,Linda Lucas,Tablet,Africa,Christopher Smith
+606,6620,162,4,1884.93,7539.7200,2022-09-24,Chelsea Williams,Monitor,South America,Timothy Hale
+607,1937,500,6,1752.5,10515.0000,2023-07-10,Natalie Johnson,Laptop,North America,Henry Ferguson
+608,8486,446,7,1464.18,10249.2600,2023-12-24,Jennifer Weiss,Smartphone,North America,Kelly Rodriguez MD
+609,3013,445,9,594.96,5354.6400,2022-12-03,Emily Brown,Headphones,Europe,Peter Thompson
+610,7036,232,10,1388.06,13880.6000,2023-11-17,Alexander Wilson,Monitor,Australia,Carla Porter
+611,7768,339,4,56.1,224.4000,2022-07-30,Ryan Berry,Headphones,Asia,Kayla King
+612,1272,325,6,1753.2,10519.2000,2023-07-12,Logan Francis,Mouse,Asia,Sonya Weeks
+613,8279,120,10,994.85,9948.5000,2023-02-22,Nicholas Kelly,Keyboard,North America,Matthew Murphy
+614,6707,220,8,1974.4,15795.2000,2023-10-22,Angela Silva,Mouse,North America,Jake Lowe
+615,7305,151,10,430.4,4304.0000,2019-10-21,Melissa Smith,Headphones,Australia,Michael Thomas
+616,9267,17,3,1020.95,3062.8500,2019-06-28,Michelle Hughes,Tablet,Africa,Angela Levine
+617,9990,448,8,377.7,3021.6000,2021-07-02,Miguel Reed,Laptop,South America,Dennis Goodman
+618,9858,124,4,462.7,1850.8000,2023-03-23,Kimberly Dodson,Mouse,Africa,Bradley Matthews
+619,2465,55,7,1987.05,13909.3500,2019-03-01,Lauren Hall,Smartphone,Asia,Elizabeth Jenkins
+620,7283,393,5,479.73,2398.6500,2020-06-11,Jennifer Garcia,Mouse,South America,Jack Hall
+621,3016,341,3,1849.34,5548.0200,2022-07-21,Amanda Reed,Mouse,South America,Emily Parks
+622,2481,408,6,1750.28,10501.6800,2022-03-25,Matthew Simpson,Headphones,Australia,Cory Neal
+623,2059,330,6,785.17,4711.0200,2023-01-09,Johnathan Fowler,Mouse,Africa,Robin Sharp
+624,7252,335,9,1934.18,17407.6200,2021-06-13,Amanda Barnett,Headphones,Europe,Daniel Mills
+625,4662,133,2,617.4,1234.8000,2019-08-17,Nicole Hensley,Laptop,Asia,Carlos Taylor
+626,4082,382,2,1167.04,2334.0800,2019-09-18,Hannah Nelson,Headphones,Asia,Eric Olson
+627,7229,296,1,656.06,656.0600,2022-04-23,Aimee Holt,Keyboard,Europe,Jamie Deleon
+628,7359,217,6,1554.0,9324.0000,2023-06-22,Timothy Webster,Mouse,Europe,Jamie Wyatt
+629,9515,340,10,1202.01,12020.1000,2019-08-07,Carol Weiss,Monitor,North America,Diane Gonzales
+630,9819,437,8,666.06,5328.4800,2023-07-30,Holly Smith,Tablet,Europe,Barry Freeman
+631,9189,349,8,337.48,2699.8400,2020-08-03,Theresa Richardson,Smartphone,Africa,Alexandria Watson
+632,1562,307,6,652.34,3914.0400,2022-11-11,Danielle Perry,Laptop,Asia,Cheryl Morrison
+633,8836,324,4,1015.3,4061.2000,2022-12-13,Jason Wade,Monitor,North America,Laura Alvarado
+634,6458,79,4,1703.74,6814.9600,2023-07-18,Douglas Snow,Smartphone,Africa,Cody Graves
+635,1861,473,3,1720.72,5162.1600,2023-01-29,Justin Brown,Monitor,Asia,Lorraine West
+636,3608,12,9,814.96,7334.6400,2021-05-15,Mario Evans,Mouse,South America,Gary Steele
+637,6706,388,7,812.57,5687.9900,2021-12-17,Shannon Kelley,Mouse,Asia,Elizabeth Gibson
+638,5626,357,4,1417.16,5668.6400,2022-01-27,Todd Vance,Monitor,North America,Mary Hoffman
+639,3144,166,10,1738.42,17384.2000,2019-04-21,Brian Brown,Headphones,Africa,Tyler Stewart
+640,5981,235,3,1175.46,3526.3800,2021-06-23,Glenn Gates,Mouse,South America,Martin Montoya
+641,5769,460,3,459.04,1377.1200,2023-07-06,Erika Stein,Mouse,Europe,Tammy Tran
+642,1149,186,10,248.8,2488.0000,2023-05-28,Daniel Daniels,Headphones,Europe,Morgan Jones
+643,7169,487,7,1374.92,9624.4400,2019-12-11,Brooke Lawson,Laptop,North America,Jay Reese
+644,6825,499,8,400.28,3202.2400,2019-04-18,Kristin West,Laptop,Australia,Michael Davis
+645,6545,304,7,1940.97,13586.7900,2022-07-08,Debra Stewart,Mouse,South America,Christina Walker
+646,5014,18,2,519.67,1039.3400,2021-09-27,Stephen Powell,Tablet,Africa,Jacob Singh
+647,3826,335,7,1562.91,10940.3700,2023-06-17,Richard Smith,Mouse,Africa,Miguel Campbell
+648,2468,399,8,1736.55,13892.4000,2022-08-24,Rachael Khan,Monitor,Asia,Shelly Stewart
+649,8292,189,1,284.0,284.0000,2019-06-19,Gregory Smith,Laptop,South America,Darius Ramirez
+650,9351,116,1,1194.36,1194.3600,2022-03-18,Emily Francis,Monitor,Asia,Nichole Gray
+651,2549,407,10,403.14,4031.4000,2021-09-18,Jacqueline Vazquez,Mouse,Africa,Ashley Liu
+652,8105,153,10,294.21,2942.1000,2020-10-28,Laura Thomas,Laptop,Africa,Andrew Meadows
+653,9806,95,7,1635.09,11445.6300,2019-02-10,David Dunn,Monitor,Australia,Amy Smith
+654,9788,402,9,1002.7,9024.3000,2021-11-28,Jordan Clark,Headphones,Australia,Andrea Park
+655,9830,366,2,1519.34,3038.6800,2020-02-29,Laura Richardson,Mouse,North America,Robert Perez
+656,3960,442,10,1405.67,14056.7000,2019-01-11,Kenneth Dunn,Keyboard,South America,Michael Tucker
+657,6149,63,1,301.19,301.1900,2020-02-27,Teresa Ramirez,Mouse,Europe,Claire Hall
+658,2438,288,5,1710.33,8551.6500,2019-03-13,Thomas Shannon,Laptop,North America,Megan Love
+659,9292,153,6,1934.24,11605.4400,2019-12-18,April Anderson,Monitor,Africa,Terrance Hess
+660,1001,128,5,140.02,700.1000,2021-11-29,Benjamin Gonzalez,Headphones,Asia,Janice Hart
+661,9750,228,3,1175.29,3525.8700,2022-11-24,Norman Joseph,Tablet,Australia,Patrick Richards
+662,6769,311,9,1045.65,9410.8500,2022-11-09,Randy Roth,Laptop,Africa,Victoria Newman
+663,1732,122,1,416.74,416.7400,2020-09-05,Adam Freeman,Headphones,Europe,Sarah Walls
+664,3198,309,9,471.28,4241.5200,2021-01-05,Lauren Riley,Tablet,Europe,Andrew Foster
+665,7914,39,9,547.19,4924.7100,2021-02-20,Keith Greer,Mouse,Europe,Stephanie Bowen
+666,7554,234,2,1892.24,3784.4800,2022-10-17,Marissa Wolf,Monitor,Africa,Robert Galvan
+667,3346,275,4,187.59,750.3600,2023-02-09,Jackie Clark,Tablet,Africa,Joan Smith
+668,4156,366,6,1149.1,6894.6000,2022-08-19,Wendy Jacobs,Headphones,Australia,Donald Hernandez
+669,3687,215,3,666.9,2000.7000,2023-06-02,Michael Chavez,Monitor,South America,John Bell
+670,1424,494,10,532.62,5326.2000,2020-07-07,Daniel Evans,Laptop,Australia,Philip Lewis
+671,2802,351,9,843.22,7588.9800,2020-11-05,Alejandra Bartlett,Mouse,North America,Monique Jackson
+672,6944,466,6,1567.24,9403.4400,2019-10-27,Billy Romero DDS,Headphones,Europe,David Sandoval
+673,5483,6,2,785.45,1570.9000,2020-03-31,Michael Joseph,Monitor,North America,Victor Johnson
+674,3023,90,9,1470.24,13232.1600,2020-09-19,Ashley Munoz,Keyboard,South America,Amy Reeves
+675,2565,271,6,1415.89,8495.3400,2023-11-08,Catherine Taylor,Tablet,Australia,Paul Meadows
+676,5440,312,2,1798.31,3596.6200,2019-12-16,Richard Young,Tablet,South America,Anna Taylor
+677,3960,177,9,1125.76,10131.8400,2023-12-12,Mary Thompson,Headphones,South America,Zachary Watson
+678,8812,304,3,555.17,1665.5100,2022-11-07,Erin Morgan,Keyboard,Africa,Charles Olson
+679,3547,337,3,328.21,984.6300,2022-03-08,Justin Williams,Mouse,Asia,Heather Todd
+680,1866,471,6,1429.63,8577.7800,2020-05-25,John Mcbride,Mouse,Australia,Marcus Haney
+681,7852,362,8,407.05,3256.4000,2020-12-25,Patrick Flores,Headphones,South America,Jennifer Holmes
+682,9228,147,5,1907.6,9538.0000,2021-12-02,Daniel Williams,Mouse,Europe,Laura Coleman
+683,6000,326,2,1897.54,3795.0800,2021-04-12,Susan Diaz,Headphones,Asia,John Thomas
+684,2476,325,2,199.55,399.1000,2020-05-06,Amber Becker,Laptop,Europe,Joseph Simon
+685,1940,44,5,1130.61,5653.0500,2021-10-06,Patrick Wright,Headphones,North America,Mariah Moore MD
+686,7946,347,9,1868.26,16814.3400,2019-10-07,Mr. Eric Rodriguez Jr.,Monitor,South America,Kevin Wagner
+687,9437,351,9,1410.87,12697.8300,2021-04-10,Melody Martin,Laptop,Australia,Stephen Burton
+688,4115,467,1,1442.61,1442.6100,2022-12-09,Regina Horton,Keyboard,Africa,Todd Li
+689,6653,126,9,1383.95,12455.5500,2019-03-28,David Logan,Keyboard,South America,Jane Miller
+690,3761,346,9,1812.41,16311.6900,2019-12-25,Terry Gibson,Laptop,Asia,Gilbert Singleton
+691,3184,264,6,1907.34,11444.0400,2021-05-15,Michael Doyle,Monitor,South America,Cody Webster
+692,3793,192,2,709.02,1418.0400,2022-10-22,Jerry Flores,Smartphone,Australia,Sharon Perez
+693,2931,149,5,992.09,4960.4500,2020-06-26,Joseph Graves,Smartphone,North America,Timothy Watson
+694,7449,112,5,1861.76,9308.8000,2022-08-09,Russell Aguilar,Keyboard,North America,Mary Young
+695,8586,457,10,1704.29,17042.9000,2019-04-28,Ryan Anderson,Tablet,North America,Chad Young
+696,8542,169,5,740.09,3700.4500,2019-01-11,Stephen Jones,Tablet,Africa,Ariana Hanson
+697,4050,206,6,67.28,403.6800,2021-06-01,Michele Holland,Monitor,Europe,Holly Thompson
+698,2388,271,9,1802.09,16218.8100,2021-04-21,Angela Moore,Laptop,South America,Richard Hunt
+699,1113,80,5,490.89,2454.4500,2021-03-20,David Munoz,Tablet,Asia,Andrew Jensen
+700,6971,220,3,1096.03,3288.0900,2020-07-05,Tyler Sanders,Laptop,South America,Stephen Cooper
+701,8198,83,3,739.79,2219.3700,2021-06-07,John Becker,Laptop,Asia,Rhonda Harris
+702,4251,57,4,605.55,2422.2000,2019-10-01,Julie Burns,Monitor,South America,Curtis Clark
+703,6426,462,1,362.61,362.6100,2020-02-12,Melissa Spears DVM,Monitor,Africa,Alex Hardin
+704,5354,61,7,1003.68,7025.7600,2021-10-11,Tammy Solomon,Headphones,Africa,Melanie Jackson
+705,3087,167,7,1028.62,7200.3400,2023-02-28,Karen Marshall,Headphones,South America,Daniel Green
+706,3153,57,2,1595.79,3191.5800,2019-09-16,John Ramos,Smartphone,Asia,John Harvey
+707,9192,7,4,151.48,605.9200,2023-08-27,Melissa Moore,Tablet,South America,Joel Thomas
+708,1131,223,8,614.46,4915.6800,2021-09-22,Renee Henderson,Laptop,South America,Ralph Wilson
+709,5059,317,3,1472.03,4416.0900,2020-01-18,Brian Mueller,Smartphone,Asia,Lori Jones
+710,2884,443,5,1988.8,9944.0000,2020-05-21,Thomas Maddox,Mouse,South America,Ryan Owens
+711,4250,243,2,1417.23,2834.4600,2021-10-25,Kevin Parks,Keyboard,Europe,Casey Rios
+712,4091,438,10,1276.37,12763.7000,2019-11-01,Sara Cunningham,Smartphone,North America,Linda Smith
+713,3167,206,1,584.03,584.0300,2020-01-29,Christopher Morgan,Smartphone,South America,Erica Hall
+714,1289,316,4,227.32,909.2800,2019-04-15,Miss Cynthia Gordon,Monitor,South America,Victoria Brown
+715,9601,157,4,482.46,1929.8400,2021-05-22,Dorothy Smith,Monitor,North America,Dennis Smith
+716,9353,219,1,643.37,643.3700,2020-07-05,Kathryn Patton,Tablet,Asia,Cody Beard
+717,6751,365,7,531.59,3721.1300,2019-04-08,Courtney Rosales,Smartphone,North America,Lori Brown
+718,1008,27,6,463.36,2780.1600,2021-08-24,Chad Russell,Tablet,Australia,Krystal Proctor
+719,2650,221,3,541.91,1625.7300,2021-10-03,Kimberly Smith,Tablet,Asia,Angela Nelson
+720,5986,58,2,1354.45,2708.9000,2022-10-30,Katelyn Woodard,Keyboard,Europe,Bryan Adams
+721,6426,185,6,1498.72,8992.3200,2022-04-21,Michael Martin,Keyboard,Australia,Tracey Nelson
+722,7088,122,5,459.56,2297.8000,2021-02-25,Matthew Herrera,Laptop,North America,Kenneth Haynes
+723,3137,323,10,284.69,2846.9000,2022-04-16,Mrs. Belinda Smith,Mouse,Europe,Angela Burton
+724,4160,361,8,1854.73,14837.8400,2019-06-03,Terri Larson,Keyboard,Australia,Frederick Kirby MD
+725,6618,155,8,1979.81,15838.4800,2020-02-18,Drew Vargas,Keyboard,Africa,Aaron Fisher
+726,3517,23,3,423.83,1271.4900,2022-02-01,Catherine Martin,Mouse,Asia,Melinda Flores
+727,6690,459,6,924.54,5547.2400,2023-01-09,Linda Moss,Laptop,South America,William Burns
+728,2109,248,7,1071.34,7499.3800,2021-10-28,Christopher Carter,Headphones,North America,Richard Roberts
+729,3735,307,5,1408.58,7042.9000,2019-09-22,Betty Smith,Tablet,North America,Helen Castillo
+730,1996,407,4,1494.39,5977.5600,2021-03-25,Miguel Taylor,Monitor,Africa,David Russell Jr.
+731,9723,446,9,1944.5,17500.5000,2019-12-05,Christopher Robinson,Monitor,Australia,Cory Williams
+732,7293,288,7,831.66,5821.6200,2020-07-10,Stephanie Cruz,Smartphone,Europe,Michelle Diaz
+733,1058,82,10,474.73,4747.3000,2022-11-27,Jeffery Harrison,Laptop,Australia,Denise Gordon
+734,8461,258,9,554.73,4992.5700,2023-10-12,Jessica Butler,Smartphone,Asia,Samuel Lynn
+735,5399,283,2,383.66,767.3200,2019-04-04,Frank King,Keyboard,Europe,Gregory Leonard
+736,5781,21,3,1886.99,5660.9700,2020-07-22,Mary West,Smartphone,Asia,Jordan Curry
+737,1844,329,4,1979.6,7918.4000,2020-03-06,Melanie Villanueva,Keyboard,North America,Juan Mendoza
+738,1022,333,6,1283.73,7702.3800,2021-01-25,Brian Downs,Tablet,North America,Julie Wilson
+739,9999,136,3,846.27,2538.8100,2022-06-06,Mary Johnson,Tablet,Asia,Nicole Bowers
+740,1938,321,1,1656.67,1656.6700,2020-03-25,Michael Phelps,Mouse,Asia,Tanner Scott
+741,3895,132,1,1097.91,1097.9100,2023-11-13,Ryan Kidd,Headphones,Australia,Denise Alvarado
+742,2743,370,7,1894.03,13258.2100,2020-06-11,Thomas Charles,Headphones,Africa,Jimmy Martin
+743,4377,419,8,480.25,3842.0000,2020-07-04,Steven Wang,Smartphone,Australia,Ashley Johnson
+744,7479,80,8,501.86,4014.8800,2023-01-27,Heather Smith,Monitor,Asia,Dale Mason
+745,3430,462,8,232.7,1861.6000,2020-01-07,Cindy Hanson,Monitor,Europe,Andrew Page Jr.
+746,3885,97,10,1006.51,10065.1000,2023-02-02,Rodney Sexton,Smartphone,Africa,Courtney Aguilar DDS
+747,5621,11,5,367.69,1838.4500,2019-12-30,Sara Watkins,Headphones,South America,Anita Porter
+748,4077,36,3,190.49,571.4700,2020-05-17,Jeremy Rodriguez,Monitor,Africa,Zachary Beard
+749,7594,52,9,317.72,2859.4800,2023-03-17,Yvonne Davis,Headphones,North America,Matthew Patterson
+750,2633,194,7,90.4,632.8000,2023-08-20,Patricia Holder,Laptop,Africa,Charles Adams
+751,1716,68,4,1551.73,6206.9200,2020-07-02,Gail Moore DVM,Smartphone,Africa,Natalie Salazar
+752,1221,406,1,1917.35,1917.3500,2019-08-06,Jeffrey Keith,Keyboard,Africa,Megan Wyatt
+753,6544,437,2,444.53,889.0600,2021-09-10,Dennis Rodriguez,Headphones,Australia,Ronald Gutierrez
+754,8279,418,3,649.4,1948.2000,2021-09-07,Lauren Miller,Smartphone,Europe,Nicole Johnson
+755,1915,279,5,1273.6,6368.0000,2019-09-10,Jeffery Ryan,Laptop,North America,Tiffany Chen
+756,2684,279,5,250.0,1250.0000,2023-12-21,Sharon Meyers,Headphones,South America,Amanda Lewis
+757,3323,1,4,96.8,387.2000,2021-05-24,Randall Hicks,Monitor,Europe,Jennifer Anderson
+758,6788,336,5,490.47,2452.3500,2023-12-06,David Clark,Mouse,South America,Tiffany Quinn
+759,2841,252,3,1982.0,5946.0000,2020-04-04,Megan Garcia,Laptop,Asia,Rachel Spencer
+760,6854,40,10,700.76,7007.6000,2021-01-08,Kyle Long,Laptop,North America,Brandon Mejia
+761,3475,92,7,1084.44,7591.0800,2022-05-13,Albert Mcfarland,Smartphone,Africa,Taylor Adams
+762,7967,77,5,1268.28,6341.4000,2020-08-10,Crystal Church,Tablet,North America,Gabriella Haynes
+763,5441,470,8,1340.38,10723.0400,2020-06-27,Chelsea Cox,Headphones,Africa,James Wallace
+764,2251,404,1,1730.34,1730.3400,2019-11-01,Sherry Lawrence,Headphones,Africa,Adam Silva
+765,3401,164,3,811.67,2435.0100,2023-01-17,Justin Anderson,Headphones,South America,Angela Cox
+766,2102,58,10,883.53,8835.3000,2023-01-28,Darlene Reyes,Tablet,Europe,Laura Gray
+767,2481,166,3,404.65,1213.9500,2021-02-27,Yvette Schmitt,Tablet,Asia,Steven Mcdaniel
+768,9097,218,8,1402.17,11217.3600,2021-04-27,Jocelyn Lloyd,Keyboard,Africa,Dawn Nguyen
+769,6463,71,4,797.21,3188.8400,2022-01-30,Hailey Rhodes,Monitor,Australia,Connor Nichols
+770,9745,253,9,1095.61,9860.4900,2020-04-16,John Briggs,Monitor,North America,Ann Rogers
+771,7911,270,10,1564.36,15643.6000,2023-07-20,Jeremiah Middleton,Mouse,Europe,Leah Holmes
+772,2429,121,6,55.59,333.5400,2023-10-09,Ashley Evans,Laptop,Asia,Cheryl Peterson
+773,8764,491,3,1845.76,5537.2800,2019-05-03,Javier Payne,Tablet,Asia,Ashley Hanson
+774,3283,151,8,331.07,2648.5600,2023-10-14,Traci Quinn,Keyboard,South America,Robert Jackson
+775,4973,108,4,158.94,635.7600,2019-10-10,Shelley Newman,Laptop,Africa,Thomas Bryant
+776,3344,194,1,1407.44,1407.4400,2021-05-19,Jennifer Short,Tablet,North America,Victor Stewart
+777,2736,340,10,193.85,1938.5000,2023-09-12,Sara Lee,Keyboard,Europe,Stacy Stevens
+778,1494,76,6,325.49,1952.9400,2020-05-16,William Zamora,Laptop,North America,Angela Rodriguez
+779,7823,77,3,966.04,2898.1200,2019-10-14,Susan Long,Mouse,Australia,Mark Montes II
+780,5907,241,7,1458.99,10212.9300,2021-06-28,Stacey Wong,Headphones,Africa,Eduardo Sampson
+781,1216,147,2,353.98,707.9600,2023-12-10,Jordan Phillips,Mouse,North America,Kelly Jones
+782,3843,258,3,71.19,213.5700,2023-09-02,Ms. Jacqueline Hall,Monitor,Africa,Kari King
+783,8443,284,5,1842.34,9211.7000,2021-10-24,Christina Lamb,Tablet,Africa,Mr. Daniel Nguyen
+784,4724,217,3,580.06,1740.1800,2019-07-08,Tammy Moran,Keyboard,South America,Stacy Ferguson
+785,3050,381,4,830.78,3323.1200,2019-04-25,Brandon Chapman,Smartphone,South America,Daisy Holt
+786,4009,422,9,1229.91,11069.1900,2019-06-08,Andrew Bell,Headphones,Africa,Anthony Flynn
+787,8674,245,6,1322.76,7936.5600,2021-04-09,Morgan White,Headphones,South America,George Deleon
+788,3700,28,6,1310.96,7865.7600,2020-02-03,Michelle Kennedy,Tablet,North America,Olivia Luna
+789,2710,40,6,1226.22,7357.3200,2023-09-30,Robert Anderson,Tablet,North America,Kathleen Gregory
+790,4924,145,3,1106.06,3318.1800,2019-05-14,Ashley Reynolds,Smartphone,Australia,Kayla Valdez
+791,1179,388,5,416.1,2080.5000,2020-02-18,Jeremy Hanson,Mouse,North America,Dr. Mario Boyer PhD
+792,4937,138,2,1954.49,3908.9800,2022-03-02,Tiffany Rivera,Laptop,Australia,Alexis Moore
+793,8926,24,1,663.43,663.4300,2020-09-24,Margaret Clark,Laptop,Asia,Elizabeth Martinez
+794,5626,491,7,1025.42,7177.9400,2020-10-06,Edward Kline,Headphones,South America,Stephanie Terry
+795,6830,499,3,1420.18,4260.5400,2019-07-19,Lindsay Arnold,Tablet,South America,Marvin Cummings
+796,9250,52,9,1624.61,14621.4900,2019-11-04,Kathryn Hopkins DDS,Laptop,Australia,Randy Brady
+797,7260,245,10,1744.18,17441.8000,2019-03-18,Nicholas Gregory,Tablet,Europe,Regina Middleton
+798,3482,350,8,203.57,1628.5600,2022-07-05,Chad Hayes,Laptop,Africa,Tyler Clark
+799,4794,453,4,1624.58,6498.3200,2022-09-01,Kelly Stevens,Smartphone,Africa,Kevin Jackson
+800,3638,494,9,1056.79,9511.1100,2023-02-01,Stacey Hampton,Keyboard,Africa,Connor Richards
+801,9573,477,6,922.59,5535.5400,2019-09-26,Rodney Mathews,Tablet,Asia,Ann Boyd
+802,6903,320,7,128.03,896.2100,2022-12-30,Christian Taylor,Headphones,Africa,William Alexander
+803,7350,123,4,1994.17,7976.6800,2022-05-27,Melissa Santiago,Laptop,Europe,Linda Johnson
+804,9151,50,1,328.11,328.1100,2023-11-18,Melanie Moreno,Tablet,Australia,Andrew Long
+805,2428,256,2,936.88,1873.7600,2019-12-14,Katelyn Santiago,Tablet,Europe,Renee Schmitt
+806,2116,144,10,758.49,7584.9000,2019-07-02,Andrew Clark,Laptop,Europe,Christina Jimenez
+807,8548,133,8,1958.04,15664.3200,2023-04-12,Brianna Rubio,Monitor,Africa,Steven Butler
+808,3301,482,2,1944.78,3889.5600,2021-09-26,Casey Bernard,Laptop,Asia,William Bailey
+809,5696,206,7,1721.15,12048.0500,2022-10-25,Victoria Baker,Smartphone,South America,Diane Hobbs
+810,7008,263,10,1906.49,19064.9000,2021-02-04,Diane Johnson,Laptop,Africa,Clinton Johnson
+811,7769,260,8,562.51,4500.0800,2023-11-29,Morgan Walker,Mouse,North America,Larry Alvarez DDS
+812,1934,380,4,1414.5,5658.0000,2022-02-22,Courtney Reid,Laptop,Europe,Lee Dodson
+813,2725,149,7,358.5,2509.5000,2021-03-28,Tonya Riggs,Headphones,North America,Francis Waters
+814,4654,199,8,1354.84,10838.7200,2020-12-15,Thomas White,Monitor,South America,Brandon Knox
+815,9767,461,8,262.78,2102.2400,2020-01-05,Nancy Martin,Mouse,North America,Brandi Cherry
+816,7503,394,7,438.97,3072.7900,2020-11-04,Caroline Robinson,Laptop,Asia,Derek Suarez
+817,6610,310,8,464.64,3717.1200,2023-02-27,Dr. Anna Barnes,Monitor,North America,Rachel Butler
+818,5560,233,1,1112.91,1112.9100,2021-08-20,Anne Delacruz,Smartphone,Africa,Linda Mcdonald
+819,4497,164,10,111.08,1110.8000,2022-05-16,Matthew Benson,Headphones,South America,Matthew Ruiz
+820,2022,480,6,1589.64,9537.8400,2021-08-27,Richard Johnson,Smartphone,North America,John Barron
+821,4465,445,1,1907.66,1907.6600,2022-11-01,Lisa Mays,Monitor,Asia,Terry Bennett
+822,5129,326,3,213.0,639.0000,2019-05-22,Diane Turner,Tablet,South America,Dale Kennedy
+823,2338,153,8,1749.01,13992.0800,2021-12-10,Jeremy Cowan,Smartphone,Africa,Eric Valdez
+824,5250,95,1,230.26,230.2600,2021-05-27,Adam Cooper,Tablet,Asia,Shelley Flores
+825,3695,102,6,1886.79,11320.7400,2021-09-13,Rebecca Schneider,Monitor,Australia,Ellen Morris
+826,3632,495,7,741.65,5191.5500,2022-11-20,Amber Fletcher,Keyboard,South America,Paula Reed
+827,1162,288,10,437.19,4371.9000,2023-01-20,David Smith,Mouse,Australia,Courtney Clark
+828,3369,166,6,77.66,465.9600,2021-07-28,William Rodriguez,Smartphone,South America,Crystal Knight
+829,6184,59,7,562.47,3937.2900,2023-01-19,Mr. Robert Walker PhD,Laptop,South America,Robert Miles
+830,3059,325,8,1295.89,10367.1200,2022-03-30,Thomas King,Laptop,North America,John Walker
+831,4581,382,4,869.34,3477.3600,2022-01-23,Ashley Murray,Headphones,Europe,Richard Garcia
+832,7185,111,6,459.04,2754.2400,2020-01-27,Walter Fox,Mouse,Australia,Andrea Collier
+833,1235,190,6,81.57,489.4200,2020-09-20,Travis Owen,Keyboard,North America,Jessica Harvey
+834,9177,333,8,857.4,6859.2000,2020-12-21,Andrew Patton,Tablet,Australia,Paige Chandler
+835,7977,268,6,271.09,1626.5400,2019-12-27,Michael Rodriguez,Monitor,South America,Dr. Gabriel Bell
+836,7113,91,9,1210.04,10890.3600,2022-01-16,Angela Davis,Monitor,South America,Barry Miller
+837,5669,433,7,1286.51,9005.5700,2022-12-08,Kimberly Perry,Keyboard,North America,Tara Esparza
+838,2435,413,2,224.79,449.5800,2019-02-03,Rhonda Simmons,Keyboard,South America,Troy Morgan
+839,2698,255,10,1858.1,18581.0000,2019-07-24,Paul Watts,Mouse,South America,Alexander Smith
+840,9247,298,1,1352.03,1352.0300,2023-10-11,Monica Townsend,Monitor,Europe,Bruce Bennett
+841,4651,398,8,1125.6,9004.8000,2019-08-23,Stacy Tyler,Smartphone,South America,David Howard
+842,3038,180,8,855.22,6841.7600,2023-08-08,Ashley Herrera,Mouse,Africa,Michelle Anderson
+843,7484,4,6,1575.28,9451.6800,2021-11-05,Marissa Hughes,Tablet,Asia,Jason Gilbert
+844,5333,158,7,1362.94,9540.5800,2019-01-09,Sandra Smith,Monitor,North America,Christopher Baldwin
+845,1254,14,3,1591.49,4774.4700,2023-09-18,Karen Arellano,Headphones,Australia,Brittany Short
+846,6201,172,3,1920.36,5761.0800,2021-05-30,Joseph Santana,Smartphone,Australia,Linda Elliott
+847,7412,99,10,1306.65,13066.5000,2023-08-24,Suzanne Cline,Laptop,Australia,Joanna Smith
+848,8030,66,7,1955.84,13690.8800,2019-12-22,Ruth Martinez,Monitor,Asia,Kristen Quinn
+849,9475,82,7,500.39,3502.7300,2022-12-25,William Mcdonald,Headphones,Europe,Steven Rose
+850,9261,61,10,1579.35,15793.5000,2023-09-23,Tracy Mills,Headphones,Africa,Christopher Smith
+851,5263,429,9,360.15,3241.3500,2020-10-22,Nicholas Castillo MD,Smartphone,North America,Jeffrey Mullins
+852,2528,14,7,72.5,507.5000,2023-04-27,James Nixon,Keyboard,Europe,Amber Kirby
+853,1455,317,9,1845.16,16606.4400,2019-06-11,Nathan Lucero,Keyboard,South America,Jeremiah Medina
+854,1414,381,3,1967.66,5902.9800,2022-07-23,Kevin Diaz,Mouse,Asia,Kristen Holt
+855,4056,123,4,629.0,2516.0000,2022-01-01,Kelly Norton,Headphones,Europe,David Nicholson
+856,7194,395,5,1335.55,6677.7500,2020-07-17,Gabrielle Ramos,Laptop,Europe,Debra Mcknight
+857,1379,327,10,1740.53,17405.3000,2019-08-16,Kelly Sims,Monitor,Australia,Thomas Rodriguez
+858,3010,55,3,600.8,1802.4000,2020-01-05,Rebecca Powell,Laptop,North America,Valerie Morris
+859,9097,433,6,1829.8,10978.8000,2020-03-01,Seth Jones,Monitor,North America,Melissa Lee
+860,9045,408,1,856.8,856.8000,2021-09-23,Samantha Richardson,Mouse,North America,Lauren Campos
+861,4445,352,7,781.75,5472.2500,2020-10-04,Vincent Powell,Mouse,South America,Kristen Lee
+862,3639,93,5,69.77,348.8500,2020-01-01,Victoria Ortiz,Mouse,Australia,Courtney Olson
+863,1515,61,6,1987.79,11926.7400,2021-09-18,Theresa Carson,Keyboard,Australia,Melinda Mathis
+864,9953,3,3,1067.41,3202.2300,2020-06-05,Kayla Hawkins,Laptop,Europe,Amanda Saunders
+865,1484,275,1,1060.09,1060.0900,2023-04-08,Robert Smith,Smartphone,Europe,Bethany King
+866,6978,59,4,107.52,430.0800,2019-10-11,Joseph Torres,Smartphone,North America,John Rodriguez
+867,3073,138,5,989.07,4945.3500,2019-07-08,Isabel King,Tablet,Africa,Erica Contreras
+868,5822,240,8,900.32,7202.5600,2021-03-30,Kristen Williams,Smartphone,Asia,Ronald Leonard
+869,3833,102,5,1925.65,9628.2500,2019-07-30,Geoffrey Gonzales,Keyboard,Australia,Deborah Wall
+870,6105,85,4,1909.84,7639.3600,2021-09-26,Cody French,Monitor,South America,Kelly Sims
+871,7942,306,5,1640.99,8204.9500,2022-06-29,Shannon Rodriguez,Laptop,Australia,Julie Caldwell
+872,7275,220,4,1155.93,4623.7200,2021-02-04,Calvin Nunez,Mouse,North America,Jonathan Sparks
+873,8363,86,1,1918.29,1918.2900,2020-06-02,Connie Gutierrez,Keyboard,South America,Dawn Fowler
+874,5808,310,9,736.89,6632.0100,2019-03-03,John Flores,Laptop,Europe,Justin Pham
+875,6286,220,3,747.6,2242.8000,2019-05-29,Adam Hawkins,Smartphone,Africa,Bobby Randall
+876,7089,191,3,1570.05,4710.1500,2019-09-08,Teresa Riley,Laptop,Asia,Kendra Smith
+877,1178,368,6,466.86,2801.1600,2022-03-08,Steven Garcia,Headphones,Asia,Tamara Lopez
+878,4811,288,2,801.9,1603.8000,2022-05-17,Tracy Myers,Smartphone,Australia,Megan Ramos
+879,4562,53,9,592.19,5329.7100,2022-05-29,Jordan Henry,Headphones,Africa,Ruben Waters
+880,2225,294,7,1380.16,9661.1200,2021-06-10,Brandon Khan,Tablet,Asia,Danielle Nelson
+881,4246,101,1,1615.31,1615.3100,2021-10-18,Micheal Mcclure,Laptop,Asia,Debra Burns
+882,7901,62,2,932.93,1865.8600,2022-05-16,Denise Robinson,Tablet,Australia,Sara Rios
+883,7272,122,10,91.47,914.7000,2019-02-06,Elizabeth Fuller,Mouse,Australia,Meredith Mccormick
+884,1076,467,8,604.51,4836.0800,2023-09-20,Miss Tammie Haynes,Monitor,North America,Patricia Wilson
+885,9740,471,9,126.28,1136.5200,2022-08-13,Robin Rodriguez,Laptop,North America,James Vasquez
+886,8698,49,7,1460.34,10222.3800,2020-07-16,Joshua Wise,Tablet,Asia,Dr. Steven Miller MD
+887,7559,41,9,1560.5,14044.5000,2021-10-08,Carol Barber,Keyboard,North America,Miss Erin Garcia DVM
+888,7444,153,8,1012.01,8096.0800,2022-08-05,Joseph Chen,Laptop,Asia,Danielle Thompson
+889,2683,15,4,143.28,573.1200,2019-01-22,Natasha Nielsen,Smartphone,North America,Michelle Gonzalez
+890,6289,442,7,491.37,3439.5900,2019-06-30,Tina Delgado,Smartphone,Africa,Michele Coleman
+891,7043,418,9,1979.65,17816.8500,2022-11-10,Ariel Russell,Headphones,North America,Christopher Matthews
+892,5254,453,1,266.07,266.0700,2020-09-15,Troy Henry,Laptop,Asia,Karen Harrell
+893,6395,353,10,1593.67,15936.7000,2021-02-16,Christopher Wade,Tablet,Africa,Susan Watkins
+894,3790,474,3,1187.73,3563.1900,2019-09-03,Alex Guerrero,Smartphone,Asia,Michele Hall
+895,3424,386,10,1781.21,17812.1000,2021-04-26,Sarah Thomas,Mouse,South America,Brenda Olsen
+896,3004,268,9,519.02,4671.1800,2021-09-05,Megan Baker,Mouse,South America,Michael George
+897,5596,165,8,490.37,3922.9600,2020-06-24,Debra Ford,Headphones,Asia,Crystal Green
+898,2356,181,9,1679.31,15113.7900,2020-05-11,Lauren Roach,Mouse,Africa,Manuel Griffith
+899,4373,356,2,196.53,393.0600,2021-10-09,Robert Cannon,Laptop,Europe,Bradley Moody
+900,1215,344,4,962.89,3851.5600,2021-02-27,James Hanson,Smartphone,South America,Diane Collins
+901,2712,175,4,1637.29,6549.1600,2023-04-09,Jack Reese,Keyboard,Australia,Jennifer Morales
+902,6134,390,5,1431.6,7158.0000,2022-09-04,Glenn Barnes,Smartphone,Australia,Samuel Carr
+903,2731,469,3,476.63,1429.8900,2021-01-14,Heather Horton,Monitor,South America,Robert Cunningham
+904,9412,104,7,416.51,2915.5700,2020-07-23,Kylie Anderson,Monitor,Europe,Shannon Colon
+905,6032,488,10,1314.35,13143.5000,2019-10-29,Kaitlin Smith,Monitor,North America,Christopher Lewis
+906,2805,124,1,1793.49,1793.4900,2020-01-19,Frank Ward,Tablet,North America,Kevin Caldwell
+907,8802,339,9,932.65,8393.8500,2020-06-27,Aaron Cooper,Laptop,Australia,Andrea Williams
+908,2377,182,7,463.53,3244.7100,2021-03-23,Misty Meadows,Keyboard,South America,Latoya Flores MD
+909,9321,171,1,910.61,910.6100,2021-01-27,Anthony King,Laptop,North America,Elizabeth Santos
+910,7267,375,7,428.17,2997.1900,2020-01-23,Mario Solis,Monitor,Europe,Elizabeth Johnson
+911,5520,272,10,1012.55,10125.5000,2021-06-06,Bethany Ward,Laptop,Africa,Nathan Haney
+912,1817,331,4,1919.99,7679.9600,2020-03-25,Scott Collins,Laptop,North America,John Johnston
+913,1584,295,5,515.6,2578.0000,2021-12-25,Michael Bennett,Laptop,Asia,Felicia Brown MD
+914,4710,452,10,1414.05,14140.5000,2021-04-08,Jeanette Thomas,Monitor,South America,Cynthia Cole
+915,2659,113,5,1015.58,5077.9000,2019-12-17,Ashley Ayala,Headphones,Europe,Tony Collins
+916,6695,327,5,1426.41,7132.0500,2020-08-12,Michael Jimenez,Mouse,North America,Jeffrey King
+917,2544,95,9,1820.18,16381.6200,2022-06-28,Anna Ward,Monitor,Africa,Michael Moss
+918,6002,437,4,381.95,1527.8000,2022-10-27,Angela Brown DDS,Laptop,Europe,Phillip White
+919,4069,171,8,326.58,2612.6400,2019-01-27,Michaela West,Mouse,South America,Haley Williams
+920,8011,172,1,396.15,396.1500,2020-06-24,Eric Carpenter,Laptop,Europe,Christopher Butler
+921,1159,305,6,1940.61,11643.6600,2022-04-09,Jeffery Patterson,Laptop,South America,Justin Thomas
+922,5055,242,2,138.09,276.1800,2019-02-05,William Davis,Keyboard,Africa,Michael Mejia
+923,5762,428,4,1074.27,4297.0800,2019-12-09,Lauren Nash,Headphones,Europe,Chris Herman
+924,2538,52,5,1617.59,8087.9500,2020-11-18,Cheryl Johnson,Monitor,South America,Jeffrey Terrell
+925,6747,280,5,1343.65,6718.2500,2020-06-03,Kristopher Clark,Tablet,South America,Diane Singh
+926,1222,424,6,637.21,3823.2600,2020-11-14,Steven Morgan,Keyboard,Africa,Alex Moore
+927,8935,58,5,1387.28,6936.4000,2023-01-31,Bailey Ferguson,Mouse,North America,Melinda Payne
+928,3423,211,4,1335.77,5343.0800,2019-10-18,Jacqueline Simmons,Tablet,South America,Anthony Adams
+929,1506,126,10,1494.97,14949.7000,2021-06-01,Daniel Hill,Tablet,Europe,Donald Flores
+930,2462,100,7,1295.53,9068.7100,2020-07-14,Julian Baker,Mouse,Africa,Casey Lambert
+931,9927,461,8,1975.3,15802.4000,2023-11-30,Carol Yu,Keyboard,Europe,Marcus Wells
+932,5346,467,6,1781.59,10689.5400,2021-03-11,Edward Garcia,Keyboard,South America,Stanley Hernandez
+933,5526,159,4,130.14,520.5600,2021-12-01,Robert Clark,Mouse,Asia,Jennifer Morgan
+934,3014,222,8,1154.99,9239.9200,2023-06-12,Jennifer Martin,Headphones,Asia,Tonya Ho
+935,5725,57,1,1022.91,1022.9100,2022-11-04,Anna Brady,Smartphone,South America,Joseph Jenkins
+936,3461,268,5,1266.4,6332.0000,2022-09-22,Thomas Martinez,Smartphone,Asia,Jeffrey Garcia
+937,8976,148,2,1609.58,3219.1600,2019-02-01,Nathan Dixon,Monitor,North America,Randy Hall
+938,4560,145,10,290.7,2907.0000,2021-09-27,Amber Cline,Tablet,North America,Eric Johns
+939,8050,181,1,147.31,147.3100,2019-10-10,Catherine Davenport,Tablet,Asia,Terrence Dunn
+940,9224,341,9,352.32,3170.8800,2019-06-26,Susan Miller,Mouse,Asia,Martin Wade
+941,3337,376,4,892.5,3570.0000,2019-06-15,Ryan Morris,Tablet,Europe,Christopher Schwartz
+942,1526,243,6,535.02,3210.1200,2022-10-21,William Reyes,Mouse,South America,Tonya Mitchell
+943,7923,205,2,1791.42,3582.8400,2020-09-10,Amanda Walker,Keyboard,Asia,Linda Foley
+944,3839,289,7,1373.9,9617.3000,2020-10-22,Louis Nunez,Headphones,Australia,Eric Robinson
+945,3280,350,4,537.54,2150.1600,2021-05-02,Andrew Mendoza,Keyboard,Europe,Jeffrey Conway
+946,5932,157,2,629.8,1259.6000,2022-07-10,Linda Taylor,Monitor,Australia,Jose Brewer
+947,4004,193,7,237.28,1660.9600,2021-12-14,Gregory Gamble,Monitor,Africa,Michelle Erickson
+948,6132,258,6,963.34,5780.0400,2021-05-25,Sheri Miller,Monitor,South America,Bryce Knox
+949,7721,237,1,1829.49,1829.4900,2019-02-24,Monique Graves,Headphones,South America,George Fisher
+950,2448,387,3,1249.66,3748.9800,2020-09-11,Lee Green,Headphones,Europe,Heather King
+951,9391,192,3,1260.73,3782.1900,2022-03-04,Susan Gates,Tablet,North America,Martin Cunningham
+952,7433,65,7,1356.65,9496.5500,2021-08-05,Jonathan Smith,Headphones,Australia,Ronald Sullivan
+953,8540,430,1,215.09,215.0900,2020-07-07,Lisa Hernandez,Headphones,Africa,Alicia Gonzalez
+954,2753,171,10,239.93,2399.3000,2020-08-18,Martin Salazar,Keyboard,South America,Amanda Sharp
+955,6428,443,1,286.81,286.8100,2022-04-12,Thomas Watkins,Mouse,Australia,Eric Smith
+956,1868,360,4,1056.71,4226.8400,2022-02-25,Scott Hughes,Mouse,South America,Debbie Santiago
+957,3234,115,3,636.74,1910.2200,2020-09-28,Katherine Meza,Mouse,North America,Pamela Castro
+958,8945,320,4,273.68,1094.7200,2019-01-01,Victoria Casey,Smartphone,Australia,Sean Gordon
+959,2983,267,2,532.05,1064.1000,2019-08-01,Barbara Wolfe,Monitor,North America,Philip Cross
+960,9287,228,7,158.52,1109.6400,2019-09-07,Jean Peters,Tablet,South America,Corey Ellison
+961,8925,95,4,1691.36,6765.4400,2022-01-24,Melissa Ferguson,Tablet,Australia,Rebecca Williams
+962,8194,440,10,290.23,2902.3000,2019-10-27,Michael Flores,Mouse,North America,Rebecca Parker
+963,4027,73,4,383.01,1532.0400,2023-02-27,Elizabeth Hayes,Mouse,Australia,Jill Scott
+964,4282,244,8,615.57,4924.5600,2022-09-29,Susan Roberson,Laptop,Australia,Nicole Ross
+965,9076,189,5,812.82,4064.1000,2022-11-29,Damon Bell,Headphones,North America,Kimberly Rodriguez
+966,8601,214,7,338.92,2372.4400,2020-08-03,Sarah Hunter,Monitor,North America,Ronald Sanders
+967,7380,6,10,640.39,6403.9000,2022-08-14,Rachel Davis,Mouse,Africa,Lindsay Vaughn
+968,8282,22,6,1927.45,11564.7000,2021-08-16,Karen Rodriguez,Mouse,South America,Christopher Robinson
+969,5536,5,3,747.61,2242.8300,2023-10-19,Amy Rodriguez,Headphones,Australia,Mark Shepherd
+970,4453,179,9,811.72,7305.4800,2019-05-09,Michelle Thompson,Smartphone,Africa,Christine Greer
+971,3480,181,10,711.62,7116.2000,2023-01-04,Suzanne Schmidt,Headphones,Europe,Vernon Valdez
+972,5560,402,5,1850.78,9253.9000,2019-05-20,Lee Collins,Headphones,Africa,Derrick Smith
+973,8925,193,8,1231.39,9851.1200,2020-01-05,Erin Davis,Keyboard,Africa,Jennifer Rocha
+974,9306,398,9,555.49,4999.4100,2022-11-30,Paul Holt,Tablet,Australia,Richard Glenn
+975,6703,300,10,1668.28,16682.8000,2019-05-19,Jordan Cox,Laptop,North America,Larry Smith
+976,3607,119,2,1347.26,2694.5200,2021-10-19,Kathy Bullock,Mouse,South America,Caleb Buck
+977,6302,390,4,1963.59,7854.3600,2023-07-14,Hannah Moss,Mouse,Europe,Mark Aguilar
+978,2727,461,3,1469.92,4409.7600,2021-02-25,Jennifer House,Headphones,South America,Dawn Green
+979,2054,32,10,538.44,5384.4000,2019-03-18,Rachel Edwards,Headphones,Africa,Cassandra Mejia
+980,2194,227,6,1232.74,7396.4400,2023-09-18,Mario Barker,Laptop,Europe,Tamara Johnson
+981,6261,56,8,786.38,6291.0400,2022-07-29,Nathan Rollins,Keyboard,Australia,John King
+982,4272,101,5,1007.65,5038.2500,2022-10-22,Jasmine Walter,Tablet,Europe,Kimberly Spence
+983,4296,380,3,896.42,2689.2600,2021-12-18,Ronald Middleton,Headphones,Europe,Mr. John Marshall
+984,2409,299,1,1276.78,1276.7800,2022-10-01,Timothy Rodriguez,Laptop,Europe,Jessica Pearson
+985,1544,415,3,1791.92,5375.7600,2021-01-06,Debra Carter,Headphones,South America,Denise Davis
+986,9955,443,2,714.39,1428.7800,2022-10-29,Bradley Jordan,Mouse,Africa,Laurie Jackson
+987,9653,255,4,1673.19,6692.7600,2022-03-14,Tracy Phillips,Headphones,South America,Scott Wright
+988,9205,181,6,1256.03,7536.1800,2022-02-18,Jessica Davis,Headphones,Europe,Sean Gardner
+989,2100,225,7,1269.67,8887.6900,2023-11-25,Jessica Gregory,Laptop,Australia,Christopher Miller Jr.
+990,2280,66,9,631.54,5683.8600,2019-08-30,Elizabeth Heath,Monitor,Europe,Haley Roth
+991,1843,308,9,695.29,6257.6100,2020-04-03,Kristi Marquez,Headphones,Asia,Laura Gordon
+992,5118,200,6,182.51,1095.0600,2023-11-20,Carol Wiley,Smartphone,Asia,Jonathan Dixon
+993,2225,274,10,520.73,5207.3000,2021-11-26,Gregory Davis,Keyboard,Australia,Dustin Watts
+994,6115,205,10,160.46,1604.6000,2022-11-29,Dawn Wilson,Laptop,Australia,Michael Clayton
+995,8716,480,5,1323.8,6619.0000,2019-03-08,Justin Brennan,Tablet,South America,Ashley Wright
+996,5274,103,6,1781.65,10689.9000,2019-05-02,Michelle Harding,Smartphone,Europe,Linda Morris
+997,9963,419,6,1852.14,11112.8400,2022-09-20,Sean Johnson,Laptop,Europe,Veronica Davis
+998,9086,38,10,1813.43,18134.3000,2022-12-10,Catherine Ruiz,Headphones,North America,Theresa Williams
+999,6666,37,7,1216.39,8514.7300,2022-06-08,Timothy Pratt,Laptop,Australia,Robert Horne
+1000,8844,485,3,577.49,1732.4700,2019-03-27,Gary Mcgrath,Laptop,North America,Oscar Ramsey
